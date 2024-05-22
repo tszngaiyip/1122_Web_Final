@@ -11,7 +11,7 @@ class DatabaseHelper:
         ret: dict = {}
 
         # query for both
-        if query_rest_name and query_meal_type:
+        if query_rest_name and query_food_type:
             result = []
             for rest in self.db:
                 if query_rest_name == rest['rest_name']:
@@ -22,7 +22,7 @@ class DatabaseHelper:
             ret = {
                 'rest_name': query_rest_name,
                 'rest_menu': {
-                    'meal_type_name': query_meal_type,
+                    'meal_type_name': 'all',
                     'meal_type_menu': result
                 }
             }
