@@ -194,30 +194,39 @@ margin-top:2px;
 	font-weight: 500;
 	font-family:'Poppins','Noto Sans TC',sans-serif;
 }
-#result p{
-	background-color:rgba(255,255,255,0.13);
-	font-size:20px;
-}
-#result label {
-		  text-align: center;
-		  font-size: 20px;
-		  margin: 3px;
-		}
-#result td,th{
-			width: 200px;
-			align-items: left;
-			text-align: left;
-		}
+      #result p {
+          background-color: rgba(255,255,255,0.13);
+          font-size: 20px;
+      }
 
-#result input{
-			height: 20px;
-			width: 20px;
-			margin: 5px;
-		}
-#result table,tr,td{
-			border: 1px;
-			border-collapse: collapse;
-			width: 100%;
-			display: flex;
-			font-size: 20px;
-		}
+      #result label {
+          text-align: center;
+          font-size: 20px;
+          margin: 3px;
+      }
+
+      #result td, th {
+          text-align: center;
+          vertical-align: middle; /* 垂直置中 */
+      }
+
+      #result input {
+          height: 20px;
+          width: 20px;
+          margin: 5px;
+      }
+
+      #result table {
+          width: 100%;
+          border-collapse: collapse;
+      }
+
+      #result tr {
+          display: table-row; /* 恢復 table-row 類型 */
+      }
+
+      #result td {
+          display: table-cell; /* 恢復 table-cell 類型 */
+          width: auto; /* 移除固定寬度，交給上面的 inline style 設置 */
+          vertical-align: middle; /* 垂直置中 */
+      }
