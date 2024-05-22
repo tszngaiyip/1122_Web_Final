@@ -20,7 +20,7 @@ $(document).ready(function(){
             });
     }
 
-    $("#submit-button").click(function(event){
+    $("#filter-button").click(function(event){
         event.preventDefault();
         let foodType = $("input[name='food_type[]']:checked").val();
         let restaurantName = $("#select").val();
