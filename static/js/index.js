@@ -40,7 +40,7 @@ $(document).ready(function(){
         fetchData(queryUrl);
     });
 
-    $("#randomly_pick").click(function (event) {
+    $("#submit-button").click(function (event) {
         console.log('randomly_pick');
         event.preventDefault();
 
