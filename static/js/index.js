@@ -1,3 +1,6 @@
+const rest_name = '卡利西里'
+
+
 $(document).ready(function(){
     function fetchData(queryUrl) {
         fetch(queryUrl)
