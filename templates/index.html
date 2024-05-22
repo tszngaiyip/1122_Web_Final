@@ -56,7 +56,7 @@
 			<h4>食物類別:</h4>
 			<table>
 				<tr>
-					<td><input type="radio" id="ft_all" name="food_type[]" value="" checked="checked">
+					<td><input type="radio" id="ft_all" name="food_type[]" value="都可" checked="checked">
 						<label for="ft_all">都可</label>
 					</td>
 					<td><input type="radio" id="ft_1" name="food_type[]" value="套餐">
@@ -64,7 +64,7 @@
 					</td>
 					<td><input type="radio" id="ft_17" name="food_type[]" value="飯">
 						<label for="ft_17">飯類</label>
-					
+                    </td>
 				</tr>
 				<tr>
 					<td><input type="radio" id="ft_20" name="food_type[]" value="麵">
@@ -75,7 +75,6 @@
 					</td>
 					<td><input type="radio" id="ft_4" name="food_type[]" value="吐司">
 						<label for="ft_4">吐司</label>
-					</td>
 					</td>
 				</tr>
 				<tr>
@@ -93,7 +92,7 @@
 			<p>&emsp;</p>
 			<p>
 			<div>
-				<button id="submit-button"> Filter </button>
+				<button id="filter-button"> 幫我選 </button>
 			</div>
 			</p>
 	</form>
@@ -101,10 +100,24 @@
 	<p>
 	<h4>結果:</h4>
 	</p>
-	<div id="result">
-	</div>
-	<div>
-		<button id="randomly_pick" type="button"> 幫我選 </button>
+    <div id="result">
+        <table>
+            <tr>
+                <td style="width: 100px;">類別</td>
+                <td style="width: 330px;">名稱</td>
+                <td style="width: 100px;">價格</td>
+            </tr>
+            <tr>
+                <td style="width: 100px;" id="result-food-type"></td>
+                <td style="width: 330px;" id="result-food-name"></td>
+                <td style="width: 100px;" id="result-food-price"></td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+		<button id="submit-button" type="button"> 送出訂單 </button>
+		TEST
 	</div>
 </body>
 

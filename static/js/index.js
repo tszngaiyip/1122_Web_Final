@@ -1,3 +1,6 @@
+const rest_name = '卡利西里'
+
+
 $(document).ready(function(){
     function fetchData(queryUrl) {
         fetch(queryUrl)
@@ -20,27 +23,16 @@ $(document).ready(function(){
             });
     }
 
-    $("#submit-button").click(function(event){
+    $("#filter-button").click(function(event){
         event.preventDefault();
+        let queryUrl = '/query?rn=' + rest_name;
         let foodType = $("input[name='food_type[]']:checked").val();
-        let restaurantName = $("#select").val();
-        let queryUrl = '/query?';
-        let queryParams = [];
-
-        if (restaurantName || foodType) {
-            if (restaurantName) {
-                queryParams.push(`rn=${encodeURIComponent(restaurantName)}`);
-            }
-            if (foodType) {
-                queryParams.push(`mt=${encodeURIComponent(foodType)}`);
-            }
-            queryUrl += queryParams.join('&');
-        }
+        queryUrl += `&ft=${encodeURIComponent(foodType)}`;
         queryUrl += '&rs='+Math.random();
         fetchData(queryUrl);
     });
 
-    $("#randomly_pick").click(function (event) {
+    $("#submit-button").click(function (event) {
         console.log('randomly_pick');
         event.preventDefault();
 

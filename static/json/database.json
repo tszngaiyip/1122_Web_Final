@@ -3,450 +3,450 @@
     "rest_name": "卡利西里",
     "rest_menu": [
       {
-        "meal_type_name": "套餐",
-        "meal_type_menu": [
+        "food_type_name": "套餐",
+        "food_type_menu": [
           {
-            "meal_name": "馬鈴薯沙拉鬆餅套餐",
-            "meal_price": "97)"
+            "food_name": "馬鈴薯沙拉鬆餅套餐",
+            "food_price": 97
           },
           {
-            "meal_name": "燻雞沙拉鬆餅套餐",
-            "meal_price": "103)"
+            "food_name": "燻雞沙拉鬆餅套餐",
+            "food_price": 103
           },
           {
-            "meal_name": "原味燻雞堡套餐",
-            "meal_price": "95)"
+            "food_name": "原味燻雞堡套餐",
+            "food_price": 95
           },
           {
-            "meal_name": "原味熱狗堡套餐",
-            "meal_price": "100)"
+            "food_name": "原味熱狗堡套餐",
+            "food_price": 100
           },
           {
-            "meal_name": "卡拉嫩雞堡套餐",
-            "meal_price": "105)"
+            "food_name": "卡拉嫩雞堡套餐",
+            "food_price": 105
           },
           {
-            "meal_name": "原味魚排堡套餐",
-            "meal_price": "105)"
+            "food_name": "原味魚排堡套餐",
+            "food_price": 105
           },
           {
-            "meal_name": "培根義大利麵套餐",
-            "meal_price": "112)"
+            "food_name": "培根義大利麵套餐",
+            "food_price": 112
           },
           {
-            "meal_name": "培根義大利飯套餐",
-            "meal_price": "112)"
+            "food_name": "培根義大利飯套餐",
+            "food_price": 112
           },
           {
-            "meal_name": "燻雞義大利飯套餐",
-            "meal_price": "117)"
+            "food_name": "燻雞義大利飯套餐",
+            "food_price": 117
           },
           {
-            "meal_name": "燻雞義大利麵套餐",
-            "meal_price": "117)"
+            "food_name": "燻雞義大利麵套餐",
+            "food_price": 117
           },
           {
-            "meal_name": "魚排義大利麵套餐",
-            "meal_price": "122)"
+            "food_name": "魚排義大利麵套餐",
+            "food_price": 122
           },
           {
-            "meal_name": "魚排義大利飯套餐",
-            "meal_price": "122)"
+            "food_name": "魚排義大利飯套餐",
+            "food_price": 122
           },
           {
-            "meal_name": "蛤蜊義大利麵套餐",
-            "meal_price": "122)"
+            "food_name": "蛤蜊義大利麵套餐",
+            "food_price": 122
           },
           {
-            "meal_name": "蛤蜊義大利飯套餐",
-            "meal_price": "122)"
+            "food_name": "蛤蜊義大利飯套餐",
+            "food_price": 122
           },
           {
-            "meal_name": "蜂蜜鬆餅套餐",
-            "meal_price": "98)"
+            "food_name": "蜂蜜鬆餅套餐",
+            "food_price": 98
           },
           {
-            "meal_name": "花生鬆餅套餐",
-            "meal_price": "98)"
+            "food_name": "花生鬆餅套餐",
+            "food_price": 98
           },
           {
-            "meal_name": "抹茶紅豆鬆餅套餐",
-            "meal_price": "103)"
+            "food_name": "抹茶紅豆鬆餅套餐",
+            "food_price": 103
           },
           {
-            "meal_name": "香蕉巧克力鬆餅套餐",
-            "meal_price": "103)"
+            "food_name": "香蕉巧克力鬆餅套餐",
+            "food_price": 103
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "義大利麵",
-            "meal_price": "60)"
+            "food_name": "義大利麵",
+            "food_price": 60
           },
           {
-            "meal_name": "田園培根麵",
-            "meal_price": "69)"
+            "food_name": "田園培根麵",
+            "food_price": 69
           },
           {
-            "meal_name": "德式燻肉麵",
-            "meal_price": "75)"
+            "food_name": "德式燻肉麵",
+            "food_price": 75
           },
           {
-            "meal_name": "紐澳良燻雞麵",
-            "meal_price": "75)"
+            "food_name": "紐澳良燻雞麵",
+            "food_price": 75
           },
           {
-            "meal_name": "卡拉嫩雞麵",
-            "meal_price": "80)"
+            "food_name": "卡拉嫩雞麵",
+            "food_price": 80
           },
           {
-            "meal_name": "冰島魚排麵",
-            "meal_price": "80)"
+            "food_name": "冰島魚排麵",
+            "food_price": 80
           },
           {
-            "meal_name": "蛤蠣麵",
-            "meal_price": "80)"
+            "food_name": "蛤蠣麵",
+            "food_price": 80
           },
           {
-            "meal_name": "脆皮雞排麵",
-            "meal_price": "90)"
+            "food_name": "脆皮雞排麵",
+            "food_price": 90
           },
           {
-            "meal_name": "花枝麵",
-            "meal_price": "90)"
+            "food_name": "花枝麵",
+            "food_price": 90
           },
           {
-            "meal_name": "燒肉麵",
-            "meal_price": "90)"
+            "food_name": "燒肉麵",
+            "food_price": 90
           },
           {
-            "meal_name": "燒肉便當 ",
-            "meal_price": "80)"
+            "food_name": "燒肉便當 ",
+            "food_price": 80
           },
           {
-            "meal_name": "椒麻雞胸麵",
-            "meal_price": "100)"
+            "food_name": "椒麻雞胸麵",
+            "food_price": 100
           },
           {
-            "meal_name": "椒麻雞胸便當",
-            "meal_price": "90)"
+            "food_name": "椒麻雞胸便當",
+            "food_price": 90
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "田園培根飯",
-            "meal_price": "69)"
+            "food_name": "田園培根飯",
+            "food_price": 69
           },
           {
-            "meal_name": "德式燻肉飯",
-            "meal_price": "75)"
+            "food_name": "德式燻肉飯",
+            "food_price": 75
           },
           {
-            "meal_name": "紐澳良燻雞飯",
-            "meal_price": "75)"
+            "food_name": "紐澳良燻雞飯",
+            "food_price": 75
           },
           {
-            "meal_name": "卡拉嫩雞飯",
-            "meal_price": "80)"
+            "food_name": "卡拉嫩雞飯",
+            "food_price": 80
           },
           {
-            "meal_name": "冰島魚排飯",
-            "meal_price": "80)"
+            "food_name": "冰島魚排飯",
+            "food_price": 80
           },
           {
-            "meal_name": "蛤蠣飯",
-            "meal_price": "80)"
+            "food_name": "蛤蠣飯",
+            "food_price": 80
           },
           {
-            "meal_name": "脆皮雞排飯",
-            "meal_price": "90)"
+            "food_name": "脆皮雞排飯",
+            "food_price": 90
           },
           {
-            "meal_name": "花枝飯",
-            "meal_price": "90)"
+            "food_name": "花枝飯",
+            "food_price": 90
           },
           {
-            "meal_name": "燒肉飯",
-            "meal_price": "90)"
+            "food_name": "燒肉飯",
+            "food_price": 90
           }
         ]
       },
       {
-        "meal_type_name": "潛艇堡",
-        "meal_type_menu": [
+        "food_type_name": "潛艇堡",
+        "food_type_menu": [
           {
-            "meal_name": "原味香薯堡 ",
-            "meal_price": "45)"
+            "food_name": "原味香薯堡 ",
+            "food_price": 45
           },
           {
-            "meal_name": "原味燻雞堡",
-            "meal_price": "50)"
+            "food_name": "原味燻雞堡",
+            "food_price": 50
           },
           {
-            "meal_name": "蜜燒燻雞堡",
-            "meal_price": "60)"
+            "food_name": "蜜燒燻雞堡",
+            "food_price": 60
           },
           {
-            "meal_name": "辣味燻雞堡",
-            "meal_price": "60)"
+            "food_name": "辣味燻雞堡",
+            "food_price": 60
           },
           {
-            "meal_name": "馬鈴薯沙拉堡(含蛋)",
-            "meal_price": "45)"
+            "food_name": "馬鈴薯沙拉堡(含蛋)",
+            "food_price": 45
           },
           {
-            "meal_name": "野菜培根堡",
-            "meal_price": "55)"
+            "food_name": "野菜培根堡",
+            "food_price": 55
           },
           {
-            "meal_name": "原味熱狗堡 ",
-            "meal_price": "55)"
+            "food_name": "原味熱狗堡 ",
+            "food_price": 55
           },
           {
-            "meal_name": "辣味熱狗堡 ",
-            "meal_price": "62)"
+            "food_name": "辣味熱狗堡 ",
+            "food_price": 62
           },
           {
-            "meal_name": "蜜燒熱狗堡 ",
-            "meal_price": "62)"
+            "food_name": "蜜燒熱狗堡 ",
+            "food_price": 62
           },
           {
-            "meal_name": "原味冰島魚排堡",
-            "meal_price": "65)"
+            "food_name": "原味冰島魚排堡",
+            "food_price": 65
           },
           {
-            "meal_name": "辣味冰島魚排堡",
-            "meal_price": "65)"
+            "food_name": "辣味冰島魚排堡",
+            "food_price": 65
           },
           {
-            "meal_name": "蜜燒冰島魚排堡",
-            "meal_price": "65)"
+            "food_name": "蜜燒冰島魚排堡",
+            "food_price": 65
           },
           {
-            "meal_name": "原味卡拉雞嫩堡",
-            "meal_price": "65)"
+            "food_name": "原味卡拉雞嫩堡",
+            "food_price": 65
           },
           {
-            "meal_name": "辣味卡拉雞嫩堡",
-            "meal_price": "65)"
+            "food_name": "辣味卡拉雞嫩堡",
+            "food_price": 65
           },
           {
-            "meal_name": "蜜燒卡拉雞嫩堡",
-            "meal_price": "65)"
+            "food_name": "蜜燒卡拉雞嫩堡",
+            "food_price": 65
           },
           {
-            "meal_name": "原味脆皮雞排堡",
-            "meal_price": "70)"
+            "food_name": "原味脆皮雞排堡",
+            "food_price": 70
           },
           {
-            "meal_name": "辣味脆皮雞排堡",
-            "meal_price": "70)"
+            "food_name": "辣味脆皮雞排堡",
+            "food_price": 70
           },
           {
-            "meal_name": "蜜燒脆皮雞排堡",
-            "meal_price": "70)"
+            "food_name": "蜜燒脆皮雞排堡",
+            "food_price": 70
           }
         ]
       },
       {
-        "meal_type_name": "吐司",
-        "meal_type_menu": [
+        "food_type_name": "吐司",
+        "food_type_menu": [
           {
-            "meal_name": "花生厚片",
-            "meal_price": "25)"
+            "food_name": "花生厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "奶酥厚片",
-            "meal_price": "25)"
+            "food_name": "奶酥厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "巧克力厚片",
-            "meal_price": "25)"
+            "food_name": "巧克力厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "香蒜厚片",
-            "meal_price": "25)"
+            "food_name": "香蒜厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "草莓厚片",
-            "meal_price": "25)"
+            "food_name": "草莓厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "抹茶厚片",
-            "meal_price": "25)"
+            "food_name": "抹茶厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "芒果厚片",
-            "meal_price": "25)"
+            "food_name": "芒果厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "培根焗烤厚片 ",
-            "meal_price": "48)"
+            "food_name": "培根焗烤厚片 ",
+            "food_price": 48
           },
           {
-            "meal_name": "燻肉焗烤厚片 ",
-            "meal_price": "48)"
+            "food_name": "燻肉焗烤厚片 ",
+            "food_price": 48
           },
           {
-            "meal_name": "燻雞焗烤厚片 ",
-            "meal_price": "48)"
+            "food_name": "燻雞焗烤厚片 ",
+            "food_price": 48
           },
           {
-            "meal_name": "花生香蕉/焗烤厚片 ",
-            "meal_price": "48)"
+            "food_name": "花生香蕉/焗烤厚片 ",
+            "food_price": 48
           },
           {
-            "meal_name": "巧克力香蕉焗烤厚片 ",
-            "meal_price": "48)"
+            "food_name": "巧克力香蕉焗烤厚片 ",
+            "food_price": 48
           }
         ]
       },
       {
-        "meal_type_name": "沙拉",
-        "meal_type_menu": [
+        "food_type_name": "沙拉",
+        "food_type_menu": [
           {
-            "meal_name": "總匯沙拉(千島醬)",
-            "meal_price": "40)"
+            "food_name": "總匯沙拉(千島醬)",
+            "food_price": 40
           },
           {
-            "meal_name": "椒麻雞胸肉沙拉",
-            "meal_price": "60)"
+            "food_name": "椒麻雞胸肉沙拉",
+            "food_price": 60
           }
         ]
       },
       {
-        "meal_type_name": "三明治 ",
-        "meal_type_menu": [
+        "food_type_name": "三明治 ",
+        "food_type_menu": [
           {
-            "meal_name": "馬鈴薯沙拉三明治",
-            "meal_price": "30)"
+            "food_name": "馬鈴薯沙拉三明治",
+            "food_price": 30
           },
           {
-            "meal_name": "燻雞沙拉三明治",
-            "meal_price": "35)"
+            "food_name": "燻雞沙拉三明治",
+            "food_price": 35
           },
           {
-            "meal_name": "雞排九層塔三明治",
-            "meal_price": "45)"
+            "food_name": "雞排九層塔三明治",
+            "food_price": 45
           }
         ]
       },
       {
-        "meal_type_name": "鬆餅",
-        "meal_type_menu": [
+        "food_type_name": "鬆餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味鬆餅",
-            "meal_price": "38)"
+            "food_name": "原味鬆餅",
+            "food_price": 38
           },
           {
-            "meal_name": "蜂蜜鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "蜂蜜鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "花生鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "花生鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "草莓鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "草莓鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "焦糖鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "焦糖鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "巧克力鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "巧克力鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "抹茶鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "抹茶鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "紅豆鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "紅豆鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "奶酥鬆餅 ",
-            "meal_price": "48)"
+            "food_name": "奶酥鬆餅 ",
+            "food_price": 48
           },
           {
-            "meal_name": "抹茶紅豆鬆餅",
-            "meal_price": "58)"
+            "food_name": "抹茶紅豆鬆餅",
+            "food_price": 58
           },
           {
-            "meal_name": "水波蛋花生鬆餅",
-            "meal_price": "58)"
+            "food_name": "水波蛋花生鬆餅",
+            "food_price": 58
           },
           {
-            "meal_name": "香蕉巧克力鬆餅",
-            "meal_price": "58)"
+            "food_name": "香蕉巧克力鬆餅",
+            "food_price": 58
           },
           {
-            "meal_name": "芋頭煉乳鬆餅",
-            "meal_price": "58)"
+            "food_name": "芋頭煉乳鬆餅",
+            "food_price": 58
           },
           {
-            "meal_name": "奶蓋鮮奶油鬆餅+草莓",
-            "meal_price": "58)"
+            "food_name": "奶蓋鮮奶油鬆餅+草莓",
+            "food_price": 58
           },
           {
-            "meal_name": "奶蓋鮮奶油鬆餅+蜂蜜",
-            "meal_price": "58)"
+            "food_name": "奶蓋鮮奶油鬆餅+蜂蜜",
+            "food_price": 58
           },
           {
-            "meal_name": "奶蓋鮮奶油鬆餅+焦糖",
-            "meal_price": "58)"
+            "food_name": "奶蓋鮮奶油鬆餅+焦糖",
+            "food_price": 58
           },
           {
-            "meal_name": "奶蓋鮮奶油鬆餅+巧克力",
-            "meal_price": "58)"
+            "food_name": "奶蓋鮮奶油鬆餅+巧克力",
+            "food_price": 58
           },
           {
-            "meal_name": "奶蓋鮮奶油鬆餅+花生",
-            "meal_price": "58)"
+            "food_name": "奶蓋鮮奶油鬆餅+花生",
+            "food_price": 58
           },
           {
-            "meal_name": "奶蓋鮮奶油鬆餅+紅豆",
-            "meal_price": "58)"
+            "food_name": "奶蓋鮮奶油鬆餅+紅豆",
+            "food_price": 58
           },
           {
-            "meal_name": "冰淇淋鬆餅 ",
-            "meal_price": "72)"
+            "food_name": "冰淇淋鬆餅 ",
+            "food_price": 72
           },
           {
-            "meal_name": "生菜沙拉鬆餅 ",
-            "meal_price": "45)"
+            "food_name": "生菜沙拉鬆餅 ",
+            "food_price": 45
           },
           {
-            "meal_name": "馬鈴薯沙拉鬆餅 ",
-            "meal_price": "53)"
+            "food_name": "馬鈴薯沙拉鬆餅 ",
+            "food_price": 53
           },
           {
-            "meal_name": "燻雞鬆餅 ",
-            "meal_price": "58)"
+            "food_name": "燻雞鬆餅 ",
+            "food_price": 58
           },
           {
-            "meal_name": "燻肉鬆餅 ",
-            "meal_price": "58)"
+            "food_name": "燻肉鬆餅 ",
+            "food_price": 58
           },
           {
-            "meal_name": "培根鬆餅 ",
-            "meal_price": "58)"
+            "food_name": "培根鬆餅 ",
+            "food_price": 58
           },
           {
-            "meal_name": "魚排鬆餅 ",
-            "meal_price": "62)"
+            "food_name": "魚排鬆餅 ",
+            "food_price": 62
           },
           {
-            "meal_name": "雞排鬆餅 ",
-            "meal_price": "65)"
+            "food_name": "雞排鬆餅 ",
+            "food_price": 65
           }
         ]
       }
@@ -456,295 +456,295 @@
     "rest_name": "小木屋",
     "rest_menu": [
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "義大利麵",
-            "meal_price": "59)"
+            "food_name": "義大利麵",
+            "food_price": 59
           },
           {
-            "meal_name": "香雞片義大利麵",
-            "meal_price": "74)"
+            "food_name": "香雞片義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "鮮魚片義大利麵",
-            "meal_price": "74)"
+            "food_name": "鮮魚片義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "蛤蜊義大利麵",
-            "meal_price": "74)"
+            "food_name": "蛤蜊義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "起司片義大利麵",
-            "meal_price": "74)"
+            "food_name": "起司片義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "培根義大利麵",
-            "meal_price": "74)"
+            "food_name": "培根義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "嫩雞義大利麵",
-            "meal_price": "74)"
+            "food_name": "嫩雞義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "雞柳義大利麵",
-            "meal_price": "74)"
+            "food_name": "雞柳義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "燻雞義大利麵",
-            "meal_price": "74)"
+            "food_name": "燻雞義大利麵",
+            "food_price": 74
           },
           {
-            "meal_name": "小卷義大利麵",
-            "meal_price": "74)"
+            "food_name": "小卷義大利麵",
+            "food_price": 74
           }
         ]
       },
       {
-        "meal_type_name": "鬆餅",
-        "meal_type_menu": [
+        "food_type_name": "鬆餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味鬆餅",
-            "meal_price": "39)"
+            "food_name": "原味鬆餅",
+            "food_price": 39
           },
           {
-            "meal_name": "花生鬆餅 ",
-            "meal_price": "44)"
+            "food_name": "花生鬆餅 ",
+            "food_price": 44
           },
           {
-            "meal_name": "巧克力鬆餅 ",
-            "meal_price": "44)"
+            "food_name": "巧克力鬆餅 ",
+            "food_price": 44
           },
           {
-            "meal_name": "奶酥鬆餅 ",
-            "meal_price": "44)"
+            "food_name": "奶酥鬆餅 ",
+            "food_price": 44
           },
           {
-            "meal_name": "芒果鬆餅 ",
-            "meal_price": "49)"
+            "food_name": "芒果鬆餅 ",
+            "food_price": 49
           },
           {
-            "meal_name": "韓式香柚鬆餅 ",
-            "meal_price": "49)"
+            "food_name": "韓式香柚鬆餅 ",
+            "food_price": 49
           },
           {
-            "meal_name": "奶油鬆餅 ",
-            "meal_price": "49)"
+            "food_name": "奶油鬆餅 ",
+            "food_price": 49
           },
           {
-            "meal_name": "蘋果鬆餅 ",
-            "meal_price": "54)"
+            "food_name": "蘋果鬆餅 ",
+            "food_price": 54
           },
           {
-            "meal_name": "棉花糖鬆餅 ",
-            "meal_price": "54)"
+            "food_name": "棉花糖鬆餅 ",
+            "food_price": 54
           },
           {
-            "meal_name": "燻雞鬆餅 ",
-            "meal_price": "54)"
+            "food_name": "燻雞鬆餅 ",
+            "food_price": 54
           },
           {
-            "meal_name": "德式燻腸鬆餅 ",
-            "meal_price": "54)"
+            "food_name": "德式燻腸鬆餅 ",
+            "food_price": 54
           },
           {
-            "meal_name": "魚排鬆餅 ",
-            "meal_price": "69)"
+            "food_name": "魚排鬆餅 ",
+            "food_price": 69
           },
           {
-            "meal_name": "蝦排鬆餅 ",
-            "meal_price": "69)"
+            "food_name": "蝦排鬆餅 ",
+            "food_price": 69
           },
           {
-            "meal_name": "起司豬排鬆餅 ",
-            "meal_price": "69)"
+            "food_name": "起司豬排鬆餅 ",
+            "food_price": 69
           }
         ]
       },
       {
-        "meal_type_name": "套餐",
-        "meal_type_menu": [
+        "food_type_name": "套餐",
+        "food_type_menu": [
           {
-            "meal_name": "義大利麵套餐",
-            "meal_price": "99)"
+            "food_name": "義大利麵套餐",
+            "food_price": 99
           },
           {
-            "meal_name": "義大利飯套餐",
-            "meal_price": "99)"
+            "food_name": "義大利飯套餐",
+            "food_price": 99
           },
           {
-            "meal_name": "原味熱狗堡",
-            "meal_price": "99)"
+            "food_name": "原味熱狗堡",
+            "food_price": 99
           },
           {
-            "meal_name": "照燒雙雞漢堡",
-            "meal_price": "99)"
+            "food_name": "照燒雙雞漢堡",
+            "food_price": 99
           },
           {
-            "meal_name": "芒果焗烤厚片",
-            "meal_price": "79)"
+            "food_name": "芒果焗烤厚片",
+            "food_price": 79
           },
           {
-            "meal_name": "蘋果焗烤厚片",
-            "meal_price": "79)"
+            "food_name": "蘋果焗烤厚片",
+            "food_price": 79
           },
           {
-            "meal_name": "原味鬆餅",
-            "meal_price": "79)"
+            "food_name": "原味鬆餅",
+            "food_price": 79
           },
           {
-            "meal_name": "超值雙層牛肉堡",
-            "meal_price": "105)"
+            "food_name": "超值雙層牛肉堡",
+            "food_price": 105
           },
           {
-            "meal_name": "超值雙層豬肉堡",
-            "meal_price": "99)"
+            "food_name": "超值雙層豬肉堡",
+            "food_price": 99
           },
           {
-            "meal_name": "香酥魚排堡",
-            "meal_price": "99)"
+            "food_name": "香酥魚排堡",
+            "food_price": 99
           },
           {
-            "meal_name": "卡拉嫩雞堡套餐",
-            "meal_price": "105)"
+            "food_name": "卡拉嫩雞堡套餐",
+            "food_price": 105
           },
           {
-            "meal_name": "黃金蝦排堡",
-            "meal_price": "105)"
+            "food_name": "黃金蝦排堡",
+            "food_price": 105
           },
           {
-            "meal_name": "香檸雞柳堡",
-            "meal_price": "99)"
+            "food_name": "香檸雞柳堡",
+            "food_price": 99
           },
           {
-            "meal_name": "起司豬排堡",
-            "meal_price": "105)"
+            "food_name": "起司豬排堡",
+            "food_price": 105
           },
           {
-            "meal_name": "莎莎香薯堡",
-            "meal_price": "95)"
+            "food_name": "莎莎香薯堡",
+            "food_price": 95
           },
           {
-            "meal_name": "原味燻雞堡",
-            "meal_price": "105)"
+            "food_name": "原味燻雞堡",
+            "food_price": 105
           },
           {
-            "meal_name": "A餐(厚片",
-            "meal_price": "薯條"
+            "food_name": "A餐(厚片,薯條,飲料)",
+            "food_price": 59
           },
           {
-            "meal_name": "B餐(原味鬆餅",
-            "meal_price": "薯條"
+            "food_name": "B餐(原味鬆餅,薯條,飲料)",
+            "food_price": 79
           },
           {
-            "meal_name": "C餐(貝果",
-            "meal_price": "薯條"
+            "food_name": "C餐(貝果,薯條,飲料)",
+            "food_price": 70
           },
           {
-            "meal_name": "D餐(焗烤厚片",
-            "meal_price": "薯條"
+            "food_name": "D餐(焗烤厚片,薯條,飲料)",
+            "food_price": 75
           }
         ]
       },
       {
-        "meal_type_name": "漢堡",
-        "meal_type_menu": [
+        "food_type_name": "漢堡",
+        "food_type_menu": [
           {
-            "meal_name": "洋基豬肉堡",
-            "meal_price": "59)"
+            "food_name": "洋基豬肉堡",
+            "food_price": 59
           },
           {
-            "meal_name": "培根豬肉堡",
-            "meal_price": "65)"
+            "food_name": "培根豬肉堡",
+            "food_price": 65
           },
           {
-            "meal_name": "墨佬起司豬堡",
-            "meal_price": "65)"
+            "food_name": "墨佬起司豬堡",
+            "food_price": 65
           },
           {
-            "meal_name": "芝加哥公牛堡",
-            "meal_price": "69)"
+            "food_name": "芝加哥公牛堡",
+            "food_price": 69
           },
           {
-            "meal_name": "墨佬莎莎牛堡",
-            "meal_price": "69)"
+            "food_name": "墨佬莎莎牛堡",
+            "food_price": 69
           },
           {
-            "meal_name": "培根牛肉堡",
-            "meal_price": "79)"
+            "food_name": "培根牛肉堡",
+            "food_price": 79
           },
           {
-            "meal_name": "花生起司公牛堡",
-            "meal_price": "75)"
+            "food_name": "花生起司公牛堡",
+            "food_price": 75
           },
           {
-            "meal_name": "照燒雙雞堡",
-            "meal_price": "59)"
+            "food_name": "照燒雙雞堡",
+            "food_price": 59
           },
           {
-            "meal_name": "香酥雞腿堡",
-            "meal_price": "75)"
+            "food_name": "香酥雞腿堡",
+            "food_price": 75
           },
           {
-            "meal_name": "阿拉斯加鮮魚堡",
-            "meal_price": "59)"
+            "food_name": "阿拉斯加鮮魚堡",
+            "food_price": 59
           },
           {
-            "meal_name": "起司豬排堡",
-            "meal_price": "69)"
+            "food_name": "起司豬排堡",
+            "food_price": 69
           }
         ]
       },
       {
-        "meal_type_name": "潛艇堡",
-        "meal_type_menu": [
+        "food_type_name": "潛艇堡",
+        "food_type_menu": [
           {
-            "meal_name": "法蘭克福熱狗堡",
-            "meal_price": "65)"
+            "food_name": "法蘭克福熱狗堡",
+            "food_price": 65
           },
           {
-            "meal_name": "美式起司熱狗堡",
-            "meal_price": "69)"
+            "food_name": "美式起司熱狗堡",
+            "food_price": 69
           },
           {
-            "meal_name": "煙燻培根熱狗堡",
-            "meal_price": "75)"
+            "food_name": "煙燻培根熱狗堡",
+            "food_price": 75
           },
           {
-            "meal_name": "莎莎熱狗堡",
-            "meal_price": "69)"
+            "food_name": "莎莎熱狗堡",
+            "food_price": 69
           },
           {
-            "meal_name": "大阪照燒熱狗堡",
-            "meal_price": "69)"
+            "food_name": "大阪照燒熱狗堡",
+            "food_price": 69
           },
           {
-            "meal_name": "日式照燒熱狗堡",
-            "meal_price": "59)"
+            "food_name": "日式照燒熱狗堡",
+            "food_price": 59
           },
           {
-            "meal_name": "莎莎香薯堡",
-            "meal_price": "59)"
+            "food_name": "莎莎香薯堡",
+            "food_price": 59
           },
           {
-            "meal_name": "卡啦嫩雞堡",
-            "meal_price": "69)"
+            "food_name": "卡啦嫩雞堡",
+            "food_price": 69
           },
           {
-            "meal_name": "大阪照燒嫩雞堡",
-            "meal_price": "69)"
+            "food_name": "大阪照燒嫩雞堡",
+            "food_price": 69
           },
           {
-            "meal_name": "義式原味燻雞堡",
-            "meal_price": "69)"
+            "food_name": "義式原味燻雞堡",
+            "food_price": 69
           },
           {
-            "meal_name": "法式生菜培根堡",
-            "meal_price": "55)"
+            "food_name": "法式生菜培根堡",
+            "food_price": 55
           },
           {
-            "meal_name": "香檸雞柳堡",
-            "meal_price": "69)"
+            "food_name": "香檸雞柳堡",
+            "food_price": 69
           }
         ]
       }
@@ -754,162 +754,162 @@
     "rest_name": "雲之羹",
     "rest_menu": [
       {
-        "meal_type_name": "套餐",
-        "meal_type_menu": [
+        "food_type_name": "套餐",
+        "food_type_menu": [
           {
-            "meal_name": "套餐1(肉羹湯",
-            "meal_price": "雲油飯"
+            "food_name": "套餐1(肉羹湯,雲油飯,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐2(肉羹湯",
-            "meal_price": "雲滷飯"
+            "food_name": "套餐2(肉羹湯,雲滷飯,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐3(肉羹湯",
-            "meal_price": "雲拌麵"
+            "food_name": "套餐3(肉羹湯,雲拌麵,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐1(魷魚羹湯",
-            "meal_price": "雲油飯"
+            "food_name": "套餐1(魷魚羹湯,雲油飯,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐2(魷魚羹湯",
-            "meal_price": "雲滷飯"
+            "food_name": "套餐2(魷魚羹湯,雲滷飯,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐3(魷魚羹湯",
-            "meal_price": "雲拌麵"
+            "food_name": "套餐3(魷魚羹湯,雲拌麵,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐1(魚酥羹湯",
-            "meal_price": "雲油飯"
+            "food_name": "套餐1(魚酥羹湯,雲油飯,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐2(魚酥羹湯",
-            "meal_price": "雲滷飯"
+            "food_name": "套餐2(魚酥羹湯,雲滷飯,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐3(魚酥羹湯",
-            "meal_price": "雲拌麵"
+            "food_name": "套餐3(魚酥羹湯,雲拌麵,小菜)",
+            "food_price": 110
           },
           {
-            "meal_name": "套餐1(綜合羹湯",
-            "meal_price": "雲油飯"
+            "food_name": "套餐1(綜合羹湯,雲油飯,小菜)",
+            "food_price": 120
           },
           {
-            "meal_name": "套餐2(綜合羹湯",
-            "meal_price": "雲滷飯"
+            "food_name": "套餐2(綜合羹湯,雲滷飯,小菜)",
+            "food_price": 120
           },
           {
-            "meal_name": "套餐3(綜合羹湯",
-            "meal_price": "雲拌麵"
+            "food_name": "套餐3(綜合羹湯,雲拌麵,小菜)",
+            "food_price": 120
           }
         ]
       },
       {
-        "meal_type_name": "羹",
-        "meal_type_menu": [
+        "food_type_name": "羹",
+        "food_type_menu": [
           {
-            "meal_name": "肉羹湯",
-            "meal_price": "50)"
+            "food_name": "肉羹湯",
+            "food_price": 50
           },
           {
-            "meal_name": "魷魚羹湯",
-            "meal_price": "50)"
+            "food_name": "魷魚羹湯",
+            "food_price": 50
           },
           {
-            "meal_name": "魚酥羹湯",
-            "meal_price": "50)"
+            "food_name": "魚酥羹湯",
+            "food_price": 50
           },
           {
-            "meal_name": "綜合羹湯",
-            "meal_price": "60)"
+            "food_name": "綜合羹湯",
+            "food_price": 60
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "肉羹湯+飯",
-            "meal_price": "60)"
+            "food_name": "肉羹湯+飯",
+            "food_price": 60
           },
           {
-            "meal_name": "魷魚羹湯+飯",
-            "meal_price": "60)"
+            "food_name": "魷魚羹湯+飯",
+            "food_price": 60
           },
           {
-            "meal_name": "魚酥羹湯+飯",
-            "meal_price": "60)"
+            "food_name": "魚酥羹湯+飯",
+            "food_price": 60
           },
           {
-            "meal_name": "綜合羹湯+飯",
-            "meal_price": "70)"
+            "food_name": "綜合羹湯+飯",
+            "food_price": 70
           },
           {
-            "meal_name": "雲油飯",
-            "meal_price": "50)"
+            "food_name": "雲油飯",
+            "food_price": 50
           },
           {
-            "meal_name": "雲滷飯",
-            "meal_price": "50)"
+            "food_name": "雲滷飯",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "肉羹湯+油麵",
-            "meal_price": "60)"
+            "food_name": "肉羹湯+油麵",
+            "food_price": 60
           },
           {
-            "meal_name": "魷魚羹湯+油麵",
-            "meal_price": "60)"
+            "food_name": "魷魚羹湯+油麵",
+            "food_price": 60
           },
           {
-            "meal_name": "魚酥羹湯+油麵",
-            "meal_price": "60)"
+            "food_name": "魚酥羹湯+油麵",
+            "food_price": 60
           },
           {
-            "meal_name": "綜合羹湯+油麵",
-            "meal_price": "70)"
+            "food_name": "綜合羹湯+油麵",
+            "food_price": 70
           },
           {
-            "meal_name": "肉羹湯+白麵",
-            "meal_price": "60)"
+            "food_name": "肉羹湯+白麵",
+            "food_price": 60
           },
           {
-            "meal_name": "魷魚羹湯+白麵",
-            "meal_price": "60)"
+            "food_name": "魷魚羹湯+白麵",
+            "food_price": 60
           },
           {
-            "meal_name": "魚酥羹湯+白麵",
-            "meal_price": "60)"
+            "food_name": "魚酥羹湯+白麵",
+            "food_price": 60
           },
           {
-            "meal_name": "綜合羹湯+白麵",
-            "meal_price": "70)"
+            "food_name": "綜合羹湯+白麵",
+            "food_price": 70
           },
           {
-            "meal_name": "肉羹湯+冬粉",
-            "meal_price": "60)"
+            "food_name": "肉羹湯+冬粉",
+            "food_price": 60
           },
           {
-            "meal_name": "魷魚羹湯+冬粉",
-            "meal_price": "60)"
+            "food_name": "魷魚羹湯+冬粉",
+            "food_price": 60
           },
           {
-            "meal_name": "魚酥羹湯+冬粉",
-            "meal_price": "60)"
+            "food_name": "魚酥羹湯+冬粉",
+            "food_price": 60
           },
           {
-            "meal_name": "綜合羹湯+冬粉",
-            "meal_price": "70)"
+            "food_name": "綜合羹湯+冬粉",
+            "food_price": 70
           },
           {
-            "meal_name": "雲拌麵",
-            "meal_price": "50)"
+            "food_name": "雲拌麵",
+            "food_price": 50
           }
         ]
       }
@@ -919,59 +919,59 @@
     "rest_name": "二師兄",
     "rest_menu": [
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "蛋炒飯",
-            "meal_price": "50)"
+            "food_name": "蛋炒飯",
+            "food_price": 50
           },
           {
-            "meal_name": "牛肉蛋炒飯",
-            "meal_price": "75)"
+            "food_name": "牛肉蛋炒飯",
+            "food_price": 75
           },
           {
-            "meal_name": "夏威夷蛋炒飯",
-            "meal_price": "70)"
+            "food_name": "夏威夷蛋炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "蜜汁燒肉蛋炒飯",
-            "meal_price": "80)"
+            "food_name": "蜜汁燒肉蛋炒飯",
+            "food_price": 80
           },
           {
-            "meal_name": "揚州蛋炒飯",
-            "meal_price": "70)"
+            "food_name": "揚州蛋炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "烤雞腿蛋炒飯",
-            "meal_price": "85)"
+            "food_name": "烤雞腿蛋炒飯",
+            "food_price": 85
           },
           {
-            "meal_name": "蝦仁蛋炒飯",
-            "meal_price": "75)"
+            "food_name": "蝦仁蛋炒飯",
+            "food_price": 75
           },
           {
-            "meal_name": "銷魂燒肉飯",
-            "meal_price": "80)"
+            "food_name": "銷魂燒肉飯",
+            "food_price": 80
           },
           {
-            "meal_name": "醬烤雞腿飯",
-            "meal_price": "85)"
+            "food_name": "醬烤雞腿飯",
+            "food_price": 85
           },
           {
-            "meal_name": "蜜汁燒肉蛋包飯",
-            "meal_price": "85)"
+            "food_name": "蜜汁燒肉蛋包飯",
+            "food_price": 85
           },
           {
-            "meal_name": "蝦仁蛋包飯",
-            "meal_price": "80)"
+            "food_name": "蝦仁蛋包飯",
+            "food_price": 80
           },
           {
-            "meal_name": "烤雞腿蛋包飯",
-            "meal_price": "80)"
+            "food_name": "烤雞腿蛋包飯",
+            "food_price": 80
           },
           {
-            "meal_name": "牛肉蛋包飯",
-            "meal_price": "80)"
+            "food_name": "牛肉蛋包飯",
+            "food_price": 80
           }
         ]
       }
@@ -981,116 +981,116 @@
     "rest_name": "呷飽",
     "rest_menu": [
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "肉燥乾麵(黃麵)",
-            "meal_price": "50)"
+            "food_name": "肉燥乾麵(黃麵)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥乾麵(粄條)",
-            "meal_price": "50)"
+            "food_name": "肉燥乾麵(粄條)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥乾麵(拉麵)",
-            "meal_price": "50)"
+            "food_name": "肉燥乾麵(拉麵)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥乾麵(麵疙瘩)",
-            "meal_price": "50)"
+            "food_name": "肉燥乾麵(麵疙瘩)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥湯麵(黃麵)",
-            "meal_price": "50)"
+            "food_name": "肉燥湯麵(黃麵)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥湯麵(粄條)",
-            "meal_price": "50)"
+            "food_name": "肉燥湯麵(粄條)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥湯麵(拉麵)",
-            "meal_price": "50)"
+            "food_name": "肉燥湯麵(拉麵)",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥湯麵(麵疙瘩)",
-            "meal_price": "50)"
+            "food_name": "肉燥湯麵(麵疙瘩)",
+            "food_price": 50
           },
           {
-            "meal_name": "餛飩麵(黃麵)",
-            "meal_price": "70)"
+            "food_name": "餛飩麵(黃麵)",
+            "food_price": 70
           },
           {
-            "meal_name": "餛飩麵(粄條)",
-            "meal_price": "70)"
+            "food_name": "餛飩麵(粄條)",
+            "food_price": 70
           },
           {
-            "meal_name": "餛飩麵(拉麵)",
-            "meal_price": "70)"
+            "food_name": "餛飩麵(拉麵)",
+            "food_price": 70
           },
           {
-            "meal_name": "餛飩麵(麵疙瘩)",
-            "meal_price": "70)"
+            "food_name": "餛飩麵(麵疙瘩)",
+            "food_price": 70
           },
           {
-            "meal_name": "超值牛肉(黃麵)",
-            "meal_price": "80)"
+            "food_name": "超值牛肉(黃麵)",
+            "food_price": 80
           },
           {
-            "meal_name": "超值牛肉(粄條)",
-            "meal_price": "80)"
+            "food_name": "超值牛肉(粄條)",
+            "food_price": 80
           },
           {
-            "meal_name": "超值牛肉(拉麵)",
-            "meal_price": "80)"
+            "food_name": "超值牛肉(拉麵)",
+            "food_price": 80
           },
           {
-            "meal_name": "超值牛肉(麵疙瘩)",
-            "meal_price": "80)"
+            "food_name": "超值牛肉(麵疙瘩)",
+            "food_price": 80
           },
           {
-            "meal_name": "金牌牛肉(黃麵)",
-            "meal_price": "120)"
+            "food_name": "金牌牛肉(黃麵)",
+            "food_price": 120
           },
           {
-            "meal_name": "金牌牛肉(粄條)",
-            "meal_price": "120)"
+            "food_name": "金牌牛肉(粄條)",
+            "food_price": 120
           },
           {
-            "meal_name": "金牌牛肉(拉麵)",
-            "meal_price": "120)"
+            "food_name": "金牌牛肉(拉麵)",
+            "food_price": 120
           },
           {
-            "meal_name": "金牌牛肉(麵疙瘩)",
-            "meal_price": "120)"
+            "food_name": "金牌牛肉(麵疙瘩)",
+            "food_price": 120
           },
           {
-            "meal_name": "麻醬涼麵",
-            "meal_price": "50)"
+            "food_name": "麻醬涼麵",
+            "food_price": 50
           },
           {
-            "meal_name": "麻辣涼麵",
-            "meal_price": "50)"
+            "food_name": "麻辣涼麵",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "滷肉飯(小)",
-            "meal_price": "40)"
+            "food_name": "滷肉飯(小)",
+            "food_price": 40
           },
           {
-            "meal_name": "滷肉飯(大)",
-            "meal_price": "50)"
+            "food_name": "滷肉飯(大)",
+            "food_price": 50
           },
           {
-            "meal_name": "扛拋豬肉飯",
-            "meal_price": "60)"
+            "food_name": "扛拋豬肉飯",
+            "food_price": 60
           },
           {
-            "meal_name": "紅燒牛肉飯",
-            "meal_price": "80)"
+            "food_name": "紅燒牛肉飯",
+            "food_price": 80
           }
         ]
       }
@@ -1100,148 +1100,148 @@
     "rest_name": "山口食務所",
     "rest_menu": [
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "日式炸豬排丼飯",
-            "meal_price": "75)"
+            "food_name": "日式炸豬排丼飯",
+            "food_price": 75
           },
           {
-            "meal_name": "醬燒牛肉丼飯",
-            "meal_price": "80)"
+            "food_name": "醬燒牛肉丼飯",
+            "food_price": 80
           },
           {
-            "meal_name": "板燒雞腿丼飯",
-            "meal_price": "75)"
+            "food_name": "板燒雞腿丼飯",
+            "food_price": 75
           },
           {
-            "meal_name": "醬燒梅花豬丼飯",
-            "meal_price": "75)"
+            "food_name": "醬燒梅花豬丼飯",
+            "food_price": 75
           },
           {
-            "meal_name": "日式香雞排丼飯",
-            "meal_price": "75)"
+            "food_name": "日式香雞排丼飯",
+            "food_price": 75
           },
           {
-            "meal_name": "京都燒肉丼飯",
-            "meal_price": "75)"
+            "food_name": "京都燒肉丼飯",
+            "food_price": 75
           },
           {
-            "meal_name": "蒲燒鯛魚丼飯",
-            "meal_price": "75)"
+            "food_name": "蒲燒鯛魚丼飯",
+            "food_price": 75
           },
           {
-            "meal_name": "黃金魚排丼飯",
-            "meal_price": "70)"
+            "food_name": "黃金魚排丼飯",
+            "food_price": 70
           },
           {
-            "meal_name": "日式炸豬排咖哩飯",
-            "meal_price": "75)"
+            "food_name": "日式炸豬排咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "醬燒牛肉咖哩飯",
-            "meal_price": "80)"
+            "food_name": "醬燒牛肉咖哩飯",
+            "food_price": 80
           },
           {
-            "meal_name": "日式雞排咖哩飯",
-            "meal_price": "75)"
+            "food_name": "日式雞排咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "醬燒梅花豬咖哩飯",
-            "meal_price": "75)"
+            "food_name": "醬燒梅花豬咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "板燒雞腿咖哩飯",
-            "meal_price": "75)"
+            "food_name": "板燒雞腿咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "香腸焗雞咖哩飯",
-            "meal_price": "75)"
+            "food_name": "香腸焗雞咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "京都燒肉咖哩飯",
-            "meal_price": "75)"
+            "food_name": "京都燒肉咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "唐揚雞咖哩飯",
-            "meal_price": "75)"
+            "food_name": "唐揚雞咖哩飯",
+            "food_price": 75
           },
           {
-            "meal_name": "黃金魚排咖哩飯",
-            "meal_price": "70)"
+            "food_name": "黃金魚排咖哩飯",
+            "food_price": 70
           },
           {
-            "meal_name": "雞肉野菜咖哩飯",
-            "meal_price": "60)"
+            "food_name": "雞肉野菜咖哩飯",
+            "food_price": 60
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "牛肉壽喜燒烏龍湯麵",
-            "meal_price": "75)"
+            "food_name": "牛肉壽喜燒烏龍湯麵",
+            "food_price": 75
           },
           {
-            "meal_name": "梅花豬壽喜燒烏龍湯麵",
-            "meal_price": "70)"
+            "food_name": "梅花豬壽喜燒烏龍湯麵",
+            "food_price": 70
           },
           {
-            "meal_name": "雞肉壽喜燒烏龍湯麵",
-            "meal_price": "60)"
+            "food_name": "雞肉壽喜燒烏龍湯麵",
+            "food_price": 60
           },
           {
-            "meal_name": "野菜菌菇壽喜燒烏龍湯麵",
-            "meal_price": "50)"
+            "food_name": "野菜菌菇壽喜燒烏龍湯麵",
+            "food_price": 50
           },
           {
-            "meal_name": "唐揚雞炒泡麵",
-            "meal_price": "70)"
+            "food_name": "唐揚雞炒泡麵",
+            "food_price": 70
           },
           {
-            "meal_name": "醬燒牛肉炒泡麵",
-            "meal_price": "75)"
+            "food_name": "醬燒牛肉炒泡麵",
+            "food_price": 75
           },
           {
-            "meal_name": "和風雞肉炒泡麵",
-            "meal_price": "60)"
+            "food_name": "和風雞肉炒泡麵",
+            "food_price": 60
           },
           {
-            "meal_name": "醬燒梅花豬炒泡麵",
-            "meal_price": "65)"
+            "food_name": "醬燒梅花豬炒泡麵",
+            "food_price": 65
           },
           {
-            "meal_name": "雞汁野菜炒泡麵",
-            "meal_price": "50)"
+            "food_name": "雞汁野菜炒泡麵",
+            "food_price": 50
           },
           {
-            "meal_name": "京都燒肉炒泡麵",
-            "meal_price": "70)"
+            "food_name": "京都燒肉炒泡麵",
+            "food_price": 70
           },
           {
-            "meal_name": "唐揚雞炒烏龍麵",
-            "meal_price": "70)"
+            "food_name": "唐揚雞炒烏龍麵",
+            "food_price": 70
           },
           {
-            "meal_name": "醬燒牛肉炒烏龍麵",
-            "meal_price": "75)"
+            "food_name": "醬燒牛肉炒烏龍麵",
+            "food_price": 75
           },
           {
-            "meal_name": "和風雞肉炒烏龍麵",
-            "meal_price": "60)"
+            "food_name": "和風雞肉炒烏龍麵",
+            "food_price": 60
           },
           {
-            "meal_name": "醬燒梅花豬炒烏龍麵",
-            "meal_price": "65)"
+            "food_name": "醬燒梅花豬炒烏龍麵",
+            "food_price": 65
           },
           {
-            "meal_name": "雞汁野菜炒烏龍麵",
-            "meal_price": "50)"
+            "food_name": "雞汁野菜炒烏龍麵",
+            "food_price": 50
           },
           {
-            "meal_name": "京都燒肉炒烏龍麵",
-            "meal_price": "70)"
+            "food_name": "京都燒肉炒烏龍麵",
+            "food_price": 70
           }
         ]
       }
@@ -1251,51 +1251,51 @@
     "rest_name": "玉食屋",
     "rest_menu": [
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "卡滋豬排玉子飯",
-            "meal_price": "90)"
+            "food_name": "卡滋豬排玉子飯",
+            "food_price": 90
           },
           {
-            "meal_name": "卡滋雞排玉子飯",
-            "meal_price": "90)"
+            "food_name": "卡滋雞排玉子飯",
+            "food_price": 90
           },
           {
-            "meal_name": "照燒雞飯",
-            "meal_price": "85)"
+            "food_name": "照燒雞飯",
+            "food_price": 85
           },
           {
-            "meal_name": "橙汁雞飯",
-            "meal_price": "85)"
+            "food_name": "橙汁雞飯",
+            "food_price": 85
           },
           {
-            "meal_name": "蔥油雞飯",
-            "meal_price": "85)"
+            "food_name": "蔥油雞飯",
+            "food_price": 85
           },
           {
-            "meal_name": "椒麻炸雞飯",
-            "meal_price": "85)"
+            "food_name": "椒麻炸雞飯",
+            "food_price": 85
           },
           {
-            "meal_name": "薑汁豬肉飯",
-            "meal_price": "80)"
+            "food_name": "薑汁豬肉飯",
+            "food_price": 80
           },
           {
-            "meal_name": "鋤燒豬肉飯",
-            "meal_price": "75)"
+            "food_name": "鋤燒豬肉飯",
+            "food_price": 75
           },
           {
-            "meal_name": "雞肉玉子飯",
-            "meal_price": "75)"
+            "food_name": "雞肉玉子飯",
+            "food_price": 75
           },
           {
-            "meal_name": "豬肉玉子飯",
-            "meal_price": "75)"
+            "food_name": "豬肉玉子飯",
+            "food_price": 75
           },
           {
-            "meal_name": "燒肉炊飯",
-            "meal_price": "70)"
+            "food_name": "燒肉炊飯",
+            "food_price": 70
           }
         ]
       }
@@ -1305,72 +1305,72 @@
     "rest_name": "太發龍",
     "rest_menu": [
       {
-        "meal_type_name": "餃子",
-        "meal_type_menu": [
+        "food_type_name": "餃子",
+        "food_type_menu": [
           {
-            "meal_name": "高麗菜豬肉水餃(10顆)",
-            "meal_price": "60)"
+            "food_name": "高麗菜豬肉水餃(10顆)",
+            "food_price": 60
           },
           {
-            "meal_name": "高麗菜豬肉煎餃(10顆)",
-            "meal_price": "60)"
+            "food_name": "高麗菜豬肉煎餃(10顆)",
+            "food_price": 60
           },
           {
-            "meal_name": "韮菜豬肉水餃(10顆)",
-            "meal_price": "60)"
+            "food_name": "韮菜豬肉水餃(10顆)",
+            "food_price": 60
           },
           {
-            "meal_name": "韮菜豬肉煎餃(10顆)",
-            "meal_price": "60)"
+            "food_name": "韮菜豬肉煎餃(10顆)",
+            "food_price": 60
           },
           {
-            "meal_name": "咖哩水餃(10顆)",
-            "meal_price": "70)"
+            "food_name": "咖哩水餃(10顆)",
+            "food_price": 70
           },
           {
-            "meal_name": "咖哩煎餃(10顆)",
-            "meal_price": "70)"
+            "food_name": "咖哩煎餃(10顆)",
+            "food_price": 70
           },
           {
-            "meal_name": "川椒麻辣水餃(10顆)",
-            "meal_price": "70)"
+            "food_name": "川椒麻辣水餃(10顆)",
+            "food_price": 70
           },
           {
-            "meal_name": "川椒麻辣煎餃(10顆)",
-            "meal_price": "70)"
+            "food_name": "川椒麻辣煎餃(10顆)",
+            "food_price": 70
           },
           {
-            "meal_name": "鮮蔬素食水餃(10顆)",
-            "meal_price": "60)"
+            "food_name": "鮮蔬素食水餃(10顆)",
+            "food_price": 60
           },
           {
-            "meal_name": "鮮蔬素食煎餃(10顆)",
-            "meal_price": "60)"
+            "food_name": "鮮蔬素食煎餃(10顆)",
+            "food_price": 60
           },
           {
-            "meal_name": "黑芝麻鮮蝦水餃(10顆)",
-            "meal_price": "100)"
+            "food_name": "黑芝麻鮮蝦水餃(10顆)",
+            "food_price": 100
           },
           {
-            "meal_name": "黑芝麻鮮蝦煎餃(10顆)",
-            "meal_price": "100)"
+            "food_name": "黑芝麻鮮蝦煎餃(10顆)",
+            "food_price": 100
           },
           {
-            "meal_name": "紅油抄手",
-            "meal_price": "80)"
+            "food_name": "紅油抄手",
+            "food_price": 80
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "起司焗烤炸雞翅飯",
-            "meal_price": "100)"
+            "food_name": "起司焗烤炸雞翅飯",
+            "food_price": 100
           },
           {
-            "meal_name": "起司焗烤炸鮮蝦飯",
-            "meal_price": "119)"
+            "food_name": "起司焗烤炸鮮蝦飯",
+            "food_price": 119
           }
         ]
       }
@@ -1380,690 +1380,690 @@
     "rest_name": "美而美",
     "rest_menu": [
       {
-        "meal_type_name": "套餐",
-        "meal_type_menu": [
+        "food_type_name": "套餐",
+        "food_type_menu": [
           {
-            "meal_name": "咔啦雞腿蛋堡+脆薯+飲料",
-            "meal_price": "85)"
+            "food_name": "咔啦雞腿蛋堡+脆薯+飲料",
+            "food_price": 85
           },
           {
-            "meal_name": "豬肉蛋堡+薯餅+飲料",
-            "meal_price": "60)"
+            "food_name": "豬肉蛋堡+薯餅+飲料",
+            "food_price": 60
           },
           {
-            "meal_name": "優質雞塊+火腿蛋餅+飲料",
-            "meal_price": "80)"
+            "food_name": "優質雞塊+火腿蛋餅+飲料",
+            "food_price": 80
           },
           {
-            "meal_name": "蘿蔔糕+豬肉片+荷包蛋+飲料",
-            "meal_price": "65)"
+            "food_name": "蘿蔔糕+豬肉片+荷包蛋+飲料",
+            "food_price": 65
           },
           {
-            "meal_name": "豬肉總匯+飲料",
-            "meal_price": "60)"
+            "food_name": "豬肉總匯+飲料",
+            "food_price": 60
           },
           {
-            "meal_name": "鍋貼+蛋+飲料",
-            "meal_price": "55)"
+            "food_name": "鍋貼+蛋+飲料",
+            "food_price": 55
           },
           {
-            "meal_name": "香雞蛋捲餅+飲料",
-            "meal_price": "60)"
+            "food_name": "香雞蛋捲餅+飲料",
+            "food_price": 60
           },
           {
-            "meal_name": "手工水餃+玉米濃湯",
-            "meal_price": "60)"
+            "food_name": "手工水餃+玉米濃湯",
+            "food_price": 60
           },
           {
-            "meal_name": "豬排蛋鐵板麵(蘑菇)+飲料",
-            "meal_price": "70)"
+            "food_name": "豬排蛋鐵板麵(蘑菇)+飲料",
+            "food_price": 70
           },
           {
-            "meal_name": "豬排蛋鐵板麵(黑胡椒)+飲料",
-            "meal_price": "70)"
+            "food_name": "豬排蛋鐵板麵(黑胡椒)+飲料",
+            "food_price": 70
           },
           {
-            "meal_name": "豬排蛋鐵板麵(義大利)+飲料",
-            "meal_price": "70)"
+            "food_name": "豬排蛋鐵板麵(義大利)+飲料",
+            "food_price": 70
           },
           {
-            "meal_name": "咔啦雞腿蛋鐵板麵(蘑菇)+飲料",
-            "meal_price": "85)"
+            "food_name": "咔啦雞腿蛋鐵板麵(蘑菇)+飲料",
+            "food_price": 85
           },
           {
-            "meal_name": "咔啦雞腿蛋鐵板麵(黑胡椒)+飲料",
-            "meal_price": "85)"
+            "food_name": "咔啦雞腿蛋鐵板麵(黑胡椒)+飲料",
+            "food_price": 85
           },
           {
-            "meal_name": "咔啦雞腿蛋鐵板麵(義大利)+飲料",
-            "meal_price": "85)"
+            "food_name": "咔啦雞腿蛋鐵板麵(義大利)+飲料",
+            "food_price": 85
           },
           {
-            "meal_name": "培根蛋鐵板麵(蘑菇)+飲料",
-            "meal_price": "65)"
+            "food_name": "培根蛋鐵板麵(蘑菇)+飲料",
+            "food_price": 65
           },
           {
-            "meal_name": "培根蛋鐵板麵(黑胡椒)+飲料",
-            "meal_price": "65)"
+            "food_name": "培根蛋鐵板麵(黑胡椒)+飲料",
+            "food_price": 65
           },
           {
-            "meal_name": "培根蛋鐵板麵(義大利)+飲料",
-            "meal_price": "65)"
+            "food_name": "培根蛋鐵板麵(義大利)+飲料",
+            "food_price": 65
           },
           {
-            "meal_name": "優質雞塊+脆薯+飲料",
-            "meal_price": "75)"
+            "food_name": "優質雞塊+脆薯+飲料",
+            "food_price": 75
           },
           {
-            "meal_name": "焗烤(玉米",
-            "meal_price": "火腿"
+            "food_name": "焗烤(玉米,火腿,熱狗,鮪魚)+飲料",
+            "food_price": 55
           },
           {
-            "meal_name": "起司蛋蔥抓餅+飲料",
-            "meal_price": "50)"
+            "food_name": "起司蛋蔥抓餅+飲料",
+            "food_price": 50
           },
           {
-            "meal_name": "雞米花+洋蔥圈+飲料",
-            "meal_price": "65)"
+            "food_name": "雞米花+洋蔥圈+飲料",
+            "food_price": 65
           },
           {
-            "meal_name": "香雞蛋可頌+熱狗+飲料",
-            "meal_price": "65)"
+            "food_name": "香雞蛋可頌+熱狗+飲料",
+            "food_price": 65
           },
           {
-            "meal_name": "照燒豬排蛋堡+脆薯+飲料",
-            "meal_price": "75)"
+            "food_name": "照燒豬排蛋堡+脆薯+飲料",
+            "food_price": 75
           },
           {
-            "meal_name": "德式香腸蛋堡+脆薯+飲料",
-            "meal_price": "75)"
+            "food_name": "德式香腸蛋堡+脆薯+飲料",
+            "food_price": 75
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "原味河粉",
-            "meal_price": "25)"
+            "food_name": "原味河粉",
+            "food_price": 25
           },
           {
-            "meal_name": "九層塔河粉",
-            "meal_price": "35)"
+            "food_name": "九層塔河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "玉米河粉",
-            "meal_price": "35)"
+            "food_name": "玉米河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "起司河粉",
-            "meal_price": "35)"
+            "food_name": "起司河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "火腿河粉",
-            "meal_price": "35)"
+            "food_name": "火腿河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "培根河粉",
-            "meal_price": "35)"
+            "food_name": "培根河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "鮪魚河粉",
-            "meal_price": "35)"
+            "food_name": "鮪魚河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "熱狗河粉",
-            "meal_price": "35)"
+            "food_name": "熱狗河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "豬肉河粉",
-            "meal_price": "40)"
+            "food_name": "豬肉河粉",
+            "food_price": 40
           },
           {
-            "meal_name": "香雞河粉",
-            "meal_price": "40)"
+            "food_name": "香雞河粉",
+            "food_price": 40
           },
           {
-            "meal_name": "薯餅河粉",
-            "meal_price": "40)"
+            "food_name": "薯餅河粉",
+            "food_price": 40
           },
           {
-            "meal_name": "高麗菜河粉",
-            "meal_price": "40)"
+            "food_name": "高麗菜河粉",
+            "food_price": 40
           },
           {
-            "meal_name": "燻雞河粉",
-            "meal_price": "45)"
+            "food_name": "燻雞河粉",
+            "food_price": 45
           },
           {
-            "meal_name": "豬排河粉",
-            "meal_price": "45)"
+            "food_name": "豬排河粉",
+            "food_price": 45
           },
           {
-            "meal_name": "咔啦雞腿河粉",
-            "meal_price": "55)"
+            "food_name": "咔啦雞腿河粉",
+            "food_price": 55
           },
           {
-            "meal_name": "蘑菇蛋鐵板麵",
-            "meal_price": "40)"
+            "food_name": "蘑菇蛋鐵板麵",
+            "food_price": 40
           },
           {
-            "meal_name": "黑胡椒蛋鐵板麵",
-            "meal_price": "40)"
+            "food_name": "黑胡椒蛋鐵板麵",
+            "food_price": 40
           },
           {
-            "meal_name": "義大利蛋鐵板麵",
-            "meal_price": "45)"
+            "food_name": "義大利蛋鐵板麵",
+            "food_price": 45
           },
           {
-            "meal_name": "宮保雞丁蛋鐵板麵",
-            "meal_price": "50)"
+            "food_name": "宮保雞丁蛋鐵板麵",
+            "food_price": 50
           },
           {
-            "meal_name": "三杯雞蛋鐵板麵",
-            "meal_price": "50)"
+            "food_name": "三杯雞蛋鐵板麵",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "漢堡",
-        "meal_type_menu": [
+        "food_type_name": "漢堡",
+        "food_type_menu": [
           {
-            "meal_name": "蔬菜蛋漢堡",
-            "meal_price": "35)"
+            "food_name": "蔬菜蛋漢堡",
+            "food_price": 35
           },
           {
-            "meal_name": "豬肉蛋漢堡",
-            "meal_price": "35)"
+            "food_name": "豬肉蛋漢堡",
+            "food_price": 35
           },
           {
-            "meal_name": "香雞蛋漢堡",
-            "meal_price": "35)"
+            "food_name": "香雞蛋漢堡",
+            "food_price": 35
           },
           {
-            "meal_name": "培根蛋漢堡",
-            "meal_price": "35)"
+            "food_name": "培根蛋漢堡",
+            "food_price": 35
           },
           {
-            "meal_name": "鮪魚蛋漢堡",
-            "meal_price": "35)"
+            "food_name": "鮪魚蛋漢堡",
+            "food_price": 35
           },
           {
-            "meal_name": "薯餅蛋漢堡",
-            "meal_price": "35)"
+            "food_name": "薯餅蛋漢堡",
+            "food_price": 35
           },
           {
-            "meal_name": "花枝蛋漢堡",
-            "meal_price": "40)"
+            "food_name": "花枝蛋漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "豬排蛋漢堡",
-            "meal_price": "40)"
+            "food_name": "豬排蛋漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "德式香腸漢堡",
-            "meal_price": "40)"
+            "food_name": "德式香腸漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "起司牛肉漢堡",
-            "meal_price": "45)"
+            "food_name": "起司牛肉漢堡",
+            "food_price": 45
           },
           {
-            "meal_name": "板燒雞腿漢堡",
-            "meal_price": "45)"
+            "food_name": "板燒雞腿漢堡",
+            "food_price": 45
           },
           {
-            "meal_name": "菲力嫩雞漢堡",
-            "meal_price": "50)"
+            "food_name": "菲力嫩雞漢堡",
+            "food_price": 50
           },
           {
-            "meal_name": "蜂密鱈魚漢堡",
-            "meal_price": "50)"
+            "food_name": "蜂密鱈魚漢堡",
+            "food_price": 50
           },
           {
-            "meal_name": "咔啦雞腿漢堡",
-            "meal_price": "50)"
+            "food_name": "咔啦雞腿漢堡",
+            "food_price": 50
           },
           {
-            "meal_name": "日式豬排漢堡",
-            "meal_price": "50)"
+            "food_name": "日式豬排漢堡",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "吐司",
-        "meal_type_menu": [
+        "food_type_name": "吐司",
+        "food_type_menu": [
           {
-            "meal_name": "煎蛋吐司",
-            "meal_price": "20)"
+            "food_name": "煎蛋吐司",
+            "food_price": 20
           },
           {
-            "meal_name": "起司蛋吐司",
-            "meal_price": "30)"
+            "food_name": "起司蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "蔬菜蛋吐司",
-            "meal_price": "30)"
+            "food_name": "蔬菜蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "肉鬆蛋吐司",
-            "meal_price": "30)"
+            "food_name": "肉鬆蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "鮪魚蛋吐司",
-            "meal_price": "30)"
+            "food_name": "鮪魚蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "火腿蛋吐司",
-            "meal_price": "30)"
+            "food_name": "火腿蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "培根蛋吐司",
-            "meal_price": "30)"
+            "food_name": "培根蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "香雞蛋吐司",
-            "meal_price": "30)"
+            "food_name": "香雞蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "薯餅蛋吐司",
-            "meal_price": "30)"
+            "food_name": "薯餅蛋吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "燻雞蛋吐司",
-            "meal_price": "40)"
+            "food_name": "燻雞蛋吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "豬排蛋吐司",
-            "meal_price": "40)"
+            "food_name": "豬排蛋吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "鮮蝦蛋吐司",
-            "meal_price": "40)"
+            "food_name": "鮮蝦蛋吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "照燒蛋吐司",
-            "meal_price": "40)"
+            "food_name": "照燒蛋吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "雞柳蛋吐司",
-            "meal_price": "45)"
+            "food_name": "雞柳蛋吐司",
+            "food_price": 45
           },
           {
-            "meal_name": "咔啦雞腿蛋吐司",
-            "meal_price": "50)"
+            "food_name": "咔啦雞腿蛋吐司",
+            "food_price": 50
           },
           {
-            "meal_name": "巧克力吐司",
-            "meal_price": "15)"
+            "food_name": "巧克力吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "巧克力厚片",
-            "meal_price": "20)"
+            "food_name": "巧克力厚片",
+            "food_price": 20
           },
           {
-            "meal_name": "草莓吐司",
-            "meal_price": "15)"
+            "food_name": "草莓吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "草莓厚片",
-            "meal_price": "20)"
+            "food_name": "草莓厚片",
+            "food_price": 20
           },
           {
-            "meal_name": "花生吐司",
-            "meal_price": "15)"
+            "food_name": "花生吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "花生厚片",
-            "meal_price": "20)"
+            "food_name": "花生厚片",
+            "food_price": 20
           },
           {
-            "meal_name": "藍莓吐司",
-            "meal_price": "15)"
+            "food_name": "藍莓吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "藍莓厚片",
-            "meal_price": "20)"
+            "food_name": "藍莓厚片",
+            "food_price": 20
           },
           {
-            "meal_name": "奶油吐司",
-            "meal_price": "15)"
+            "food_name": "奶油吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "奶油厚片",
-            "meal_price": "20)"
+            "food_name": "奶油厚片",
+            "food_price": 20
           },
           {
-            "meal_name": "香蒜吐司",
-            "meal_price": "15)"
+            "food_name": "香蒜吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "香蒜厚片",
-            "meal_price": "20)"
+            "food_name": "香蒜厚片",
+            "food_price": 20
           },
           {
-            "meal_name": "抹茶吐司",
-            "meal_price": "15)"
+            "food_name": "抹茶吐司",
+            "food_price": 15
           },
           {
-            "meal_name": "抹茶厚片",
-            "meal_price": "20)"
+            "food_name": "抹茶厚片",
+            "food_price": 20
           }
         ]
       },
       {
-        "meal_type_name": "蛋餅",
-        "meal_type_menu": [
+        "food_type_name": "蛋餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味蛋餅",
-            "meal_price": "20)"
+            "food_name": "原味蛋餅",
+            "food_price": 20
           },
           {
-            "meal_name": "九層塔蛋餅",
-            "meal_price": "30)"
+            "food_name": "九層塔蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "玉米蛋餅",
-            "meal_price": "30)"
+            "food_name": "玉米蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "起司蛋餅",
-            "meal_price": "30)"
+            "food_name": "起司蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "火腿蛋餅",
-            "meal_price": "30)"
+            "food_name": "火腿蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "培根蛋餅",
-            "meal_price": "30)"
+            "food_name": "培根蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "鮪魚蛋餅",
-            "meal_price": "30)"
+            "food_name": "鮪魚蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "熱狗蛋餅",
-            "meal_price": "30)"
+            "food_name": "熱狗蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "香雞蛋餅",
-            "meal_price": "35)"
+            "food_name": "香雞蛋餅",
+            "food_price": 35
           },
           {
-            "meal_name": "薯餅蛋餅",
-            "meal_price": "35)"
+            "food_name": "薯餅蛋餅",
+            "food_price": 35
           },
           {
-            "meal_name": "高麗菜蛋餅",
-            "meal_price": "35)"
+            "food_name": "高麗菜蛋餅",
+            "food_price": 35
           },
           {
-            "meal_name": "燻雞蛋餅",
-            "meal_price": "40)"
+            "food_name": "燻雞蛋餅",
+            "food_price": 40
           },
           {
-            "meal_name": "豬排蛋餅",
-            "meal_price": "40)"
+            "food_name": "豬排蛋餅",
+            "food_price": 40
           },
           {
-            "meal_name": "蜂密鱈魚蛋餅",
-            "meal_price": "50)"
+            "food_name": "蜂密鱈魚蛋餅",
+            "food_price": 50
           },
           {
-            "meal_name": "咔啦雞腿蛋餅",
-            "meal_price": "50)"
+            "food_name": "咔啦雞腿蛋餅",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "可頌",
-        "meal_type_menu": [
+        "food_type_name": "可頌",
+        "food_type_menu": [
           {
-            "meal_name": "蔬菜蛋可頌",
-            "meal_price": "40)"
+            "food_name": "蔬菜蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "起司蛋可頌",
-            "meal_price": "40)"
+            "food_name": "起司蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "火腿蛋可頌",
-            "meal_price": "40)"
+            "food_name": "火腿蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "培根蛋可頌",
-            "meal_price": "40)"
+            "food_name": "培根蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "鮪魚蛋可頌",
-            "meal_price": "40)"
+            "food_name": "鮪魚蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "香雞蛋可頌",
-            "meal_price": "40)"
+            "food_name": "香雞蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "花枝蛋可頌",
-            "meal_price": "40)"
+            "food_name": "花枝蛋可頌",
+            "food_price": 40
           },
           {
-            "meal_name": "薯餅蛋可頌",
-            "meal_price": "45)"
+            "food_name": "薯餅蛋可頌",
+            "food_price": 45
           }
         ]
       },
       {
-        "meal_type_name": "三明治 ",
-        "meal_type_menu": [
+        "food_type_name": "三明治 ",
+        "food_type_menu": [
           {
-            "meal_name": "豬肉總匯",
-            "meal_price": "50)"
+            "food_name": "豬肉總匯",
+            "food_price": 50
           },
           {
-            "meal_name": "香雞總匯",
-            "meal_price": "50)"
+            "food_name": "香雞總匯",
+            "food_price": 50
           },
           {
-            "meal_name": "菲力嫩雞總匯",
-            "meal_price": "60)"
+            "food_name": "菲力嫩雞總匯",
+            "food_price": 60
           },
           {
-            "meal_name": "日式豬排總匯",
-            "meal_price": "60)"
+            "food_name": "日式豬排總匯",
+            "food_price": 60
           },
           {
-            "meal_name": "蜂密鱈魚總匯",
-            "meal_price": "60)"
+            "food_name": "蜂密鱈魚總匯",
+            "food_price": 60
           },
           {
-            "meal_name": "起司牛肉總匯",
-            "meal_price": "60)"
+            "food_name": "起司牛肉總匯",
+            "food_price": 60
           }
         ]
       },
       {
-        "meal_type_name": "捲餅",
-        "meal_type_menu": [
+        "food_type_name": "捲餅",
+        "food_type_menu": [
           {
-            "meal_name": "起司蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "起司蛋捲餅",
+            "food_price": 50
           },
           {
-            "meal_name": "火腿蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "火腿蛋捲餅",
+            "food_price": 50
           },
           {
-            "meal_name": "香雞蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "香雞蛋捲餅",
+            "food_price": 50
           },
           {
-            "meal_name": "蔬菜蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "蔬菜蛋捲餅",
+            "food_price": 50
           },
           {
-            "meal_name": "熱狗蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "熱狗蛋捲餅",
+            "food_price": 50
           },
           {
-            "meal_name": "培根蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "培根蛋捲餅",
+            "food_price": 50
           },
           {
-            "meal_name": "薯餅蛋捲餅",
-            "meal_price": "50)"
+            "food_name": "薯餅蛋捲餅",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "潛艇堡",
-        "meal_type_menu": [
+        "food_type_name": "潛艇堡",
+        "food_type_menu": [
           {
-            "meal_name": "起司蛋潛艇堡",
-            "meal_price": "45)"
+            "food_name": "起司蛋潛艇堡",
+            "food_price": 45
           },
           {
-            "meal_name": "薯餅蛋潛艇堡",
-            "meal_price": "45)"
+            "food_name": "薯餅蛋潛艇堡",
+            "food_price": 45
           },
           {
-            "meal_name": "香雞蛋潛艇堡",
-            "meal_price": "45)"
+            "food_name": "香雞蛋潛艇堡",
+            "food_price": 45
           },
           {
-            "meal_name": "鮮蝦蛋潛艇堡",
-            "meal_price": "50)"
+            "food_name": "鮮蝦蛋潛艇堡",
+            "food_price": 50
           },
           {
-            "meal_name": "花枝蛋潛艇堡",
-            "meal_price": "50)"
+            "food_name": "花枝蛋潛艇堡",
+            "food_price": 50
           },
           {
-            "meal_name": "照燒豬柳蛋潛艇堡",
-            "meal_price": "50)"
+            "food_name": "照燒豬柳蛋潛艇堡",
+            "food_price": 50
           },
           {
-            "meal_name": "雞柳蛋潛艇堡",
-            "meal_price": "55)"
+            "food_name": "雞柳蛋潛艇堡",
+            "food_price": 55
           }
         ]
       },
       {
-        "meal_type_name": "燒餅",
-        "meal_type_menu": [
+        "food_type_name": "燒餅",
+        "food_type_menu": [
           {
-            "meal_name": "起司蛋乳酪燒餅",
-            "meal_price": "40)"
+            "food_name": "起司蛋乳酪燒餅",
+            "food_price": 40
           },
           {
-            "meal_name": "火腿蛋乳酪燒餅",
-            "meal_price": "40)"
+            "food_name": "火腿蛋乳酪燒餅",
+            "food_price": 40
           },
           {
-            "meal_name": "香雞蛋乳酪燒餅",
-            "meal_price": "40)"
+            "food_name": "香雞蛋乳酪燒餅",
+            "food_price": 40
           },
           {
-            "meal_name": "蔬菜蛋乳酪燒餅",
-            "meal_price": "40)"
+            "food_name": "蔬菜蛋乳酪燒餅",
+            "food_price": 40
           },
           {
-            "meal_name": "熱狗蛋乳酪燒餅",
-            "meal_price": "40)"
+            "food_name": "熱狗蛋乳酪燒餅",
+            "food_price": 40
           },
           {
-            "meal_name": "培根蛋乳酪燒餅",
-            "meal_price": "40)"
+            "food_name": "培根蛋乳酪燒餅",
+            "food_price": 40
           },
           {
-            "meal_name": "薯餅蛋乳酪燒餅",
-            "meal_price": "45)"
+            "food_name": "薯餅蛋乳酪燒餅",
+            "food_price": 45
           }
         ]
       },
       {
-        "meal_type_name": "抓餅",
-        "meal_type_menu": [
+        "food_type_name": "抓餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味蛋蔥抓餅",
-            "meal_price": "30)"
+            "food_name": "原味蛋蔥抓餅",
+            "food_price": 30
           },
           {
-            "meal_name": "起司蛋蔥抓餅",
-            "meal_price": "40)"
+            "food_name": "起司蛋蔥抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "培根蛋蔥抓餅",
-            "meal_price": "40)"
+            "food_name": "培根蛋蔥抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "鮪魚蛋蔥抓餅",
-            "meal_price": "40)"
+            "food_name": "鮪魚蛋蔥抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "香雞蛋蔥抓餅",
-            "meal_price": "40)"
+            "food_name": "香雞蛋蔥抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "熱狗蛋蔥抓餅",
-            "meal_price": "40)"
+            "food_name": "熱狗蛋蔥抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "披薩蛋蔥抓餅",
-            "meal_price": "40)"
+            "food_name": "披薩蛋蔥抓餅",
+            "food_price": 40
           }
         ]
       },
       {
-        "meal_type_name": "貝果",
-        "meal_type_menu": [
+        "food_type_name": "貝果",
+        "food_type_menu": [
           {
-            "meal_name": "巧克力果醬貝果",
-            "meal_price": "35)"
+            "food_name": "巧克力果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "草莓果醬貝果",
-            "meal_price": "35)"
+            "food_name": "草莓果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "花生果醬貝果",
-            "meal_price": "35)"
+            "food_name": "花生果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "藍莓果醬貝果",
-            "meal_price": "35)"
+            "food_name": "藍莓果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "奶油果醬貝果",
-            "meal_price": "35)"
+            "food_name": "奶油果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "香蒜果醬貝果",
-            "meal_price": "35)"
+            "food_name": "香蒜果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "抹茶果醬貝果",
-            "meal_price": "35)"
+            "food_name": "抹茶果醬貝果",
+            "food_price": 35
           },
           {
-            "meal_name": "火腿蛋貝果",
-            "meal_price": "45)"
+            "food_name": "火腿蛋貝果",
+            "food_price": 45
           },
           {
-            "meal_name": "培根蛋貝果",
-            "meal_price": "45)"
+            "food_name": "培根蛋貝果",
+            "food_price": 45
           },
           {
-            "meal_name": "起司蛋貝果",
-            "meal_price": "45)"
+            "food_name": "起司蛋貝果",
+            "food_price": 45
           },
           {
-            "meal_name": "豬排蛋貝果",
-            "meal_price": "45)"
+            "food_name": "豬排蛋貝果",
+            "food_price": 45
           },
           {
-            "meal_name": "乳酪蛋貝果",
-            "meal_price": "45)"
+            "food_name": "乳酪蛋貝果",
+            "food_price": 45
           }
         ]
       }
@@ -2073,217 +2073,217 @@
     "rest_name": "仙桃總鋪",
     "rest_menu": [
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "雞排烏龍麵",
-            "meal_price": "65)"
+            "food_name": "雞排烏龍麵",
+            "food_price": 65
           },
           {
-            "meal_name": "雞排意麵",
-            "meal_price": "65)"
+            "food_name": "雞排意麵",
+            "food_price": 65
           },
           {
-            "meal_name": "雞排冬粉",
-            "meal_price": "65)"
+            "food_name": "雞排冬粉",
+            "food_price": 65
           },
           {
-            "meal_name": "雞排泡麵",
-            "meal_price": "65)"
+            "food_name": "雞排泡麵",
+            "food_price": 65
           },
           {
-            "meal_name": "雞排雞絲麵",
-            "meal_price": "65)"
+            "food_name": "雞排雞絲麵",
+            "food_price": 65
           },
           {
-            "meal_name": "豚骨鍋燒烏龍麵",
-            "meal_price": "60)"
+            "food_name": "豚骨鍋燒烏龍麵",
+            "food_price": 60
           },
           {
-            "meal_name": "豚骨鍋燒意麵",
-            "meal_price": "60)"
+            "food_name": "豚骨鍋燒意麵",
+            "food_price": 60
           },
           {
-            "meal_name": "豚骨鍋燒冬粉",
-            "meal_price": "60)"
+            "food_name": "豚骨鍋燒冬粉",
+            "food_price": 60
           },
           {
-            "meal_name": "豚骨鍋燒泡麵",
-            "meal_price": "60)"
+            "food_name": "豚骨鍋燒泡麵",
+            "food_price": 60
           },
           {
-            "meal_name": "豚骨鍋燒雞絲麵",
-            "meal_price": "60)"
+            "food_name": "豚骨鍋燒雞絲麵",
+            "food_price": 60
           },
           {
-            "meal_name": "泡菜鍋燒烏龍麵",
-            "meal_price": "60)"
+            "food_name": "泡菜鍋燒烏龍麵",
+            "food_price": 60
           },
           {
-            "meal_name": "泡菜鍋燒意麵",
-            "meal_price": "60)"
+            "food_name": "泡菜鍋燒意麵",
+            "food_price": 60
           },
           {
-            "meal_name": "泡菜鍋燒冬粉",
-            "meal_price": "60)"
+            "food_name": "泡菜鍋燒冬粉",
+            "food_price": 60
           },
           {
-            "meal_name": "泡菜鍋燒泡麵",
-            "meal_price": "60)"
+            "food_name": "泡菜鍋燒泡麵",
+            "food_price": 60
           },
           {
-            "meal_name": "泡菜鍋燒雞絲麵",
-            "meal_price": "60)"
+            "food_name": "泡菜鍋燒雞絲麵",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄鍋燒烏龍麵",
-            "meal_price": "60)"
+            "food_name": "蕃茄鍋燒烏龍麵",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄鍋燒意麵",
-            "meal_price": "60)"
+            "food_name": "蕃茄鍋燒意麵",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄鍋燒冬粉",
-            "meal_price": "60)"
+            "food_name": "蕃茄鍋燒冬粉",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄鍋燒泡麵",
-            "meal_price": "60)"
+            "food_name": "蕃茄鍋燒泡麵",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄鍋燒雞絲麵",
-            "meal_price": "60)"
+            "food_name": "蕃茄鍋燒雞絲麵",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄肉醬意大利麵",
-            "meal_price": "55)"
+            "food_name": "蕃茄肉醬意大利麵",
+            "food_price": 55
           },
           {
-            "meal_name": "蕃茄肉醬螺旋麵",
-            "meal_price": "55)"
+            "food_name": "蕃茄肉醬螺旋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "鍋燒雞絲麵",
-            "meal_price": "50)"
+            "food_name": "鍋燒雞絲麵",
+            "food_price": 50
           },
           {
-            "meal_name": "鍋燒意麵",
-            "meal_price": "50)"
+            "food_name": "鍋燒意麵",
+            "food_price": 50
           },
           {
-            "meal_name": "鍋燒冬粉",
-            "meal_price": "50)"
+            "food_name": "鍋燒冬粉",
+            "food_price": 50
           },
           {
-            "meal_name": "鍋燒泡麵",
-            "meal_price": "50)"
+            "food_name": "鍋燒泡麵",
+            "food_price": 50
           },
           {
-            "meal_name": "鍋燒烏龍麵",
-            "meal_price": "50)"
+            "food_name": "鍋燒烏龍麵",
+            "food_price": 50
           },
           {
-            "meal_name": "肉燥乾麵",
-            "meal_price": "50)"
+            "food_name": "肉燥乾麵",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "雞排泡飯",
-            "meal_price": "65)"
+            "food_name": "雞排泡飯",
+            "food_price": 65
           },
           {
-            "meal_name": "豚骨鍋燒泡飯",
-            "meal_price": "60)"
+            "food_name": "豚骨鍋燒泡飯",
+            "food_price": 60
           },
           {
-            "meal_name": "泡菜鍋燒泡飯",
-            "meal_price": "60)"
+            "food_name": "泡菜鍋燒泡飯",
+            "food_price": 60
           },
           {
-            "meal_name": "蕃茄鍋燒泡飯",
-            "meal_price": "60)"
+            "food_name": "蕃茄鍋燒泡飯",
+            "food_price": 60
           },
           {
-            "meal_name": "鍋燒泡飯",
-            "meal_price": "50)"
+            "food_name": "鍋燒泡飯",
+            "food_price": 50
           },
           {
-            "meal_name": "香酥雞排飯",
-            "meal_price": "85)"
+            "food_name": "香酥雞排飯",
+            "food_price": 85
           },
           {
-            "meal_name": "香酥雞腿飯",
-            "meal_price": "85)"
+            "food_name": "香酥雞腿飯",
+            "food_price": 85
           },
           {
-            "meal_name": "燒烤雞腿飯",
-            "meal_price": "85)"
+            "food_name": "燒烤雞腿飯",
+            "food_price": 85
           },
           {
-            "meal_name": "燒烤雞排飯",
-            "meal_price": "85)"
+            "food_name": "燒烤雞排飯",
+            "food_price": 85
           },
           {
-            "meal_name": "蔥油雞腿飯",
-            "meal_price": "85)"
+            "food_name": "蔥油雞腿飯",
+            "food_price": 85
           },
           {
-            "meal_name": "滷雞腿飯",
-            "meal_price": "85)"
+            "food_name": "滷雞腿飯",
+            "food_price": 85
           },
           {
-            "meal_name": "咖哩雞排飯",
-            "meal_price": "70)"
+            "food_name": "咖哩雞排飯",
+            "food_price": 70
           },
           {
-            "meal_name": "咖哩起司雞排飯",
-            "meal_price": "70)"
+            "food_name": "咖哩起司雞排飯",
+            "food_price": 70
           },
           {
-            "meal_name": "番茄肉醬雞排飯",
-            "meal_price": "70)"
+            "food_name": "番茄肉醬雞排飯",
+            "food_price": 70
           },
           {
-            "meal_name": "番茄肉醬起司雞排飯",
-            "meal_price": "70)"
+            "food_name": "番茄肉醬起司雞排飯",
+            "food_price": 70
           },
           {
-            "meal_name": "香酥魚排飯",
-            "meal_price": "65)"
+            "food_name": "香酥魚排飯",
+            "food_price": 65
           },
           {
-            "meal_name": "肉燥雞排飯",
-            "meal_price": "60)"
+            "food_name": "肉燥雞排飯",
+            "food_price": 60
           },
           {
-            "meal_name": "起司豬排飯",
-            "meal_price": "65)"
+            "food_name": "起司豬排飯",
+            "food_price": 65
           },
           {
-            "meal_name": "蛋炒飯",
-            "meal_price": "60)"
+            "food_name": "蛋炒飯",
+            "food_price": 60
           },
           {
-            "meal_name": "肉絲炒飯",
-            "meal_price": "70)"
+            "food_name": "肉絲炒飯",
+            "food_price": 70
           }
         ]
       },
       {
-        "meal_type_name": "餃子",
-        "meal_type_menu": [
+        "food_type_name": "餃子",
+        "food_type_menu": [
           {
-            "meal_name": "韭菜水餃",
-            "meal_price": "60)"
+            "food_name": "韭菜水餃",
+            "food_price": 60
           },
           {
-            "meal_name": "高麗菜水餃",
-            "meal_price": "60)"
+            "food_name": "高麗菜水餃",
+            "food_price": 60
           }
         ]
       }
@@ -2293,668 +2293,668 @@
     "rest_name": "陽光早餐屋",
     "rest_menu": [
       {
-        "meal_type_name": "蛋餅",
-        "meal_type_menu": [
+        "food_type_name": "蛋餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味蛋餅",
-            "meal_price": "25)"
+            "food_name": "原味蛋餅",
+            "food_price": 25
           },
           {
-            "meal_name": "培根蛋餅",
-            "meal_price": "30)"
+            "food_name": "培根蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "起司蛋餅",
-            "meal_price": "30)"
+            "food_name": "起司蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "火腿蛋餅",
-            "meal_price": "30)"
+            "food_name": "火腿蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "比薩蛋餅",
-            "meal_price": "30)"
+            "food_name": "比薩蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "鮪魚蛋餅",
-            "meal_price": "30)"
+            "food_name": "鮪魚蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "玉米蛋餅",
-            "meal_price": "30)"
+            "food_name": "玉米蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "燻雞蛋餅",
-            "meal_price": "30)"
+            "food_name": "燻雞蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "肉鬆蛋餅",
-            "meal_price": "30)"
+            "food_name": "肉鬆蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "熱狗蛋餅",
-            "meal_price": "30)"
+            "food_name": "熱狗蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "泡菜蛋餅",
-            "meal_price": "30)"
+            "food_name": "泡菜蛋餅",
+            "food_price": 30
           },
           {
-            "meal_name": "豬排蛋餅",
-            "meal_price": "35)"
+            "food_name": "豬排蛋餅",
+            "food_price": 35
           },
           {
-            "meal_name": "薯餅蛋餅",
-            "meal_price": "35)"
+            "food_name": "薯餅蛋餅",
+            "food_price": 35
           },
           {
-            "meal_name": "卡拉蛋餅",
-            "meal_price": "45)"
+            "food_name": "卡拉蛋餅",
+            "food_price": 45
           }
         ]
       },
       {
-        "meal_type_name": "吐司",
-        "meal_type_menu": [
+        "food_type_name": "吐司",
+        "food_type_menu": [
           {
-            "meal_name": "巧克力薄片",
-            "meal_price": "20)"
+            "food_name": "巧克力薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "巧克力厚片",
-            "meal_price": "25)"
+            "food_name": "巧克力厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "草莓薄片",
-            "meal_price": "20)"
+            "food_name": "草莓薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "草莓厚片",
-            "meal_price": "25)"
+            "food_name": "草莓厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "藍莓薄片",
-            "meal_price": "20)"
+            "food_name": "藍莓薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "藍莓厚片",
-            "meal_price": "25)"
+            "food_name": "藍莓厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "花生薄片",
-            "meal_price": "20)"
+            "food_name": "花生薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "花生厚片",
-            "meal_price": "25)"
+            "food_name": "花生厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "椰香薄片",
-            "meal_price": "20)"
+            "food_name": "椰香薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "椰香厚片",
-            "meal_price": "25)"
+            "food_name": "椰香厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "香蒜薄片",
-            "meal_price": "20)"
+            "food_name": "香蒜薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "香蒜厚片",
-            "meal_price": "25)"
+            "food_name": "香蒜厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "綠茶薄片",
-            "meal_price": "20)"
+            "food_name": "綠茶薄片",
+            "food_price": 20
           },
           {
-            "meal_name": "綠茶厚片",
-            "meal_price": "25)"
+            "food_name": "綠茶厚片",
+            "food_price": 25
           },
           {
-            "meal_name": "吐司加蛋",
-            "meal_price": "25)"
+            "food_name": "吐司加蛋",
+            "food_price": 25
           },
           {
-            "meal_name": "培根吐司",
-            "meal_price": "30)"
+            "food_name": "培根吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "起士吐司",
-            "meal_price": "30)"
+            "food_name": "起士吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "鮪魚吐司",
-            "meal_price": "30)"
+            "food_name": "鮪魚吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "玉米吐司",
-            "meal_price": "30)"
+            "food_name": "玉米吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "火腿吐司",
-            "meal_price": "30)"
+            "food_name": "火腿吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "肉鬆吐司",
-            "meal_price": "30)"
+            "food_name": "肉鬆吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "熱狗吐司",
-            "meal_price": "30)"
+            "food_name": "熱狗吐司",
+            "food_price": 30
           },
           {
-            "meal_name": "薯餅吐司",
-            "meal_price": "35)"
+            "food_name": "薯餅吐司",
+            "food_price": 35
           },
           {
-            "meal_name": "燻雞吐司",
-            "meal_price": "40)"
+            "food_name": "燻雞吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "雞柳吐司",
-            "meal_price": "40)"
+            "food_name": "雞柳吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "豬排吐司",
-            "meal_price": "40)"
+            "food_name": "豬排吐司",
+            "food_price": 40
           },
           {
-            "meal_name": "卡拉吐司",
-            "meal_price": "50)"
+            "food_name": "卡拉吐司",
+            "food_price": 50
           },
           {
-            "meal_name": "總匯吐司",
-            "meal_price": "50)"
+            "food_name": "總匯吐司",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "燒餅",
-        "meal_type_menu": [
+        "food_type_name": "燒餅",
+        "food_type_menu": [
           {
-            "meal_name": "起司燒餅",
-            "meal_price": "45)"
+            "food_name": "起司燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "熱狗燒餅",
-            "meal_price": "45)"
+            "food_name": "熱狗燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "肉鬆燒餅",
-            "meal_price": "45)"
+            "food_name": "肉鬆燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "培根燒餅",
-            "meal_price": "45)"
+            "food_name": "培根燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "肉排燒餅",
-            "meal_price": "45)"
+            "food_name": "肉排燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "鮪魚燒餅",
-            "meal_price": "45)"
+            "food_name": "鮪魚燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "火腿燒餅",
-            "meal_price": "45)"
+            "food_name": "火腿燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "燻雞燒餅",
-            "meal_price": "45)"
+            "food_name": "燻雞燒餅",
+            "food_price": 45
           },
           {
-            "meal_name": "卡拉燒餅",
-            "meal_price": "50)"
+            "food_name": "卡拉燒餅",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "抓餅",
-        "meal_type_menu": [
+        "food_type_name": "抓餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味抓餅",
-            "meal_price": "30)"
+            "food_name": "原味抓餅",
+            "food_price": 30
           },
           {
-            "meal_name": "原味抓餅加蛋",
-            "meal_price": "40)"
+            "food_name": "原味抓餅加蛋",
+            "food_price": 40
           },
           {
-            "meal_name": "培根抓餅",
-            "meal_price": "40)"
+            "food_name": "培根抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "起司抓餅",
-            "meal_price": "40)"
+            "food_name": "起司抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "比薩抓餅",
-            "meal_price": "40)"
+            "food_name": "比薩抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "火腿抓餅",
-            "meal_price": "40)"
+            "food_name": "火腿抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "鮪魚抓餅",
-            "meal_price": "40)"
+            "food_name": "鮪魚抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "玉米抓餅",
-            "meal_price": "40)"
+            "food_name": "玉米抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "燻雞抓餅",
-            "meal_price": "40)"
+            "food_name": "燻雞抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "肉鬆抓餅",
-            "meal_price": "40)"
+            "food_name": "肉鬆抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "豬排抓餅",
-            "meal_price": "40)"
+            "food_name": "豬排抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "熱狗抓餅",
-            "meal_price": "40)"
+            "food_name": "熱狗抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "泡菜抓餅",
-            "meal_price": "40)"
+            "food_name": "泡菜抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "薯餅抓餅",
-            "meal_price": "40)"
+            "food_name": "薯餅抓餅",
+            "food_price": 40
           },
           {
-            "meal_name": "卡拉抓餅",
-            "meal_price": "55)"
+            "food_name": "卡拉抓餅",
+            "food_price": 55
           }
         ]
       },
       {
-        "meal_type_name": "漢堡",
-        "meal_type_menu": [
+        "food_type_name": "漢堡",
+        "food_type_menu": [
           {
-            "meal_name": "漢堡加蛋",
-            "meal_price": "30)"
+            "food_name": "漢堡加蛋",
+            "food_price": 30
           },
           {
-            "meal_name": "鮪魚漢堡",
-            "meal_price": "40)"
+            "food_name": "鮪魚漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "肉鬆漢堡",
-            "meal_price": "40)"
+            "food_name": "肉鬆漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "香雞漢堡",
-            "meal_price": "40)"
+            "food_name": "香雞漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "燻雞漢堡",
-            "meal_price": "40)"
+            "food_name": "燻雞漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "雞柳漢堡",
-            "meal_price": "40)"
+            "food_name": "雞柳漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "豬排漢堡",
-            "meal_price": "40)"
+            "food_name": "豬排漢堡",
+            "food_price": 40
           },
           {
-            "meal_name": "卡拉漢堡",
-            "meal_price": "50)"
+            "food_name": "卡拉漢堡",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "比薩",
-        "meal_type_menu": [
+        "food_type_name": "比薩",
+        "food_type_menu": [
           {
-            "meal_name": "培根比薩",
-            "meal_price": "40)"
+            "food_name": "培根比薩",
+            "food_price": 40
           },
           {
-            "meal_name": "鮪魚比薩",
-            "meal_price": "40)"
+            "food_name": "鮪魚比薩",
+            "food_price": 40
           },
           {
-            "meal_name": "熱狗比薩",
-            "meal_price": "40)"
+            "food_name": "熱狗比薩",
+            "food_price": 40
           },
           {
-            "meal_name": "火腿比薩",
-            "meal_price": "40)"
+            "food_name": "火腿比薩",
+            "food_price": 40
           }
         ]
       },
       {
-        "meal_type_name": "粥",
-        "meal_type_menu": [
+        "food_type_name": "粥",
+        "food_type_menu": [
           {
-            "meal_name": "原味瘦肉粥",
-            "meal_price": "30)"
+            "food_name": "原味瘦肉粥",
+            "food_price": 30
           },
           {
-            "meal_name": "皮蛋瘦肉粥",
-            "meal_price": "40)"
+            "food_name": "皮蛋瘦肉粥",
+            "food_price": 40
           },
           {
-            "meal_name": "玉米瘦肉粥",
-            "meal_price": "40)"
+            "food_name": "玉米瘦肉粥",
+            "food_price": 40
           },
           {
-            "meal_name": "蝦仁瘦肉粥",
-            "meal_price": "40)"
+            "food_name": "蝦仁瘦肉粥",
+            "food_price": 40
           },
           {
-            "meal_name": "肉鬆瘦肉粥",
-            "meal_price": "40)"
+            "food_name": "肉鬆瘦肉粥",
+            "food_price": 40
           },
           {
-            "meal_name": "綜合瘦肉粥",
-            "meal_price": "45)"
+            "food_name": "綜合瘦肉粥",
+            "food_price": 45
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "蘑菇鐵板麵",
-            "meal_price": "45)"
+            "food_name": "蘑菇鐵板麵",
+            "food_price": 45
           },
           {
-            "meal_name": "黑胡椒鐵板麵",
-            "meal_price": "45)"
+            "food_name": "黑胡椒鐵板麵",
+            "food_price": 45
           },
           {
-            "meal_name": "起司鐵板麵",
-            "meal_price": "50)"
+            "food_name": "起司鐵板麵",
+            "food_price": 50
           },
           {
-            "meal_name": "肉排鐵板麵",
-            "meal_price": "55)"
+            "food_name": "肉排鐵板麵",
+            "food_price": 55
           },
           {
-            "meal_name": "原味河粉",
-            "meal_price": "35)"
+            "food_name": "原味河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "培根河粉",
-            "meal_price": "35)"
+            "food_name": "培根河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "起司河粉",
-            "meal_price": "35)"
+            "food_name": "起司河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "比薩河粉",
-            "meal_price": "35)"
+            "food_name": "比薩河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "鮪魚河粉",
-            "meal_price": "35)"
+            "food_name": "鮪魚河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "玉米河粉",
-            "meal_price": "35)"
+            "food_name": "玉米河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "燻雞河粉",
-            "meal_price": "35)"
+            "food_name": "燻雞河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "肉鬆河粉",
-            "meal_price": "35)"
+            "food_name": "肉鬆河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "火腿河粉",
-            "meal_price": "35)"
+            "food_name": "火腿河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "熱狗河粉",
-            "meal_price": "35)"
+            "food_name": "熱狗河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "泡菜河粉",
-            "meal_price": "35)"
+            "food_name": "泡菜河粉",
+            "food_price": 35
           },
           {
-            "meal_name": "薯餅河粉",
-            "meal_price": "40)"
+            "food_name": "薯餅河粉",
+            "food_price": 40
           },
           {
-            "meal_name": "肉排河粉",
-            "meal_price": "40)"
+            "food_name": "肉排河粉",
+            "food_price": 40
           },
           {
-            "meal_name": "乾麵",
-            "meal_price": "40)"
+            "food_name": "乾麵",
+            "food_price": 40
           },
           {
-            "meal_name": "陽春乾麵",
-            "meal_price": "40)"
+            "food_name": "陽春乾麵",
+            "food_price": 40
           },
           {
-            "meal_name": "維力炸醬麵",
-            "meal_price": "55)"
+            "food_name": "維力炸醬麵",
+            "food_price": 55
           },
           {
-            "meal_name": "酸辣意麵",
-            "meal_price": "55)"
+            "food_name": "酸辣意麵",
+            "food_price": 55
           },
           {
-            "meal_name": "韓式泡菜麵",
-            "meal_price": "55)"
+            "food_name": "韓式泡菜麵",
+            "food_price": 55
           },
           {
-            "meal_name": "榨菜肉絲麵",
-            "meal_price": "55)"
+            "food_name": "榨菜肉絲麵",
+            "food_price": 55
           },
           {
-            "meal_name": "擔仔麵",
-            "meal_price": "60)"
+            "food_name": "擔仔麵",
+            "food_price": 60
           },
           {
-            "meal_name": "餛飩意麵",
-            "meal_price": "55)"
+            "food_name": "餛飩意麵",
+            "food_price": 55
           },
           {
-            "meal_name": "排骨酥麵",
-            "meal_price": "60)"
+            "food_name": "排骨酥麵",
+            "food_price": 60
           },
           {
-            "meal_name": "咖哩雞肉炒麵",
-            "meal_price": "70)"
+            "food_name": "咖哩雞肉炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "韓式泡菜炒麵",
-            "meal_price": "70)"
+            "food_name": "韓式泡菜炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "燻雞炒麵",
-            "meal_price": "70)"
+            "food_name": "燻雞炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "皮蛋炒麵",
-            "meal_price": "70)"
+            "food_name": "皮蛋炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "牛肉炒麵",
-            "meal_price": "70)"
+            "food_name": "牛肉炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "羊肉炒麵",
-            "meal_price": "70)"
+            "food_name": "羊肉炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "豬肉炒麵",
-            "meal_price": "70)"
+            "food_name": "豬肉炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "蝦仁炒麵",
-            "meal_price": "70)"
+            "food_name": "蝦仁炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "火腿炒麵",
-            "meal_price": "70)"
+            "food_name": "火腿炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "廣東炒麵",
-            "meal_price": "70)"
+            "food_name": "廣東炒麵",
+            "food_price": 70
           },
           {
-            "meal_name": "沙茶燴麵",
-            "meal_price": "50)"
+            "food_name": "沙茶燴麵",
+            "food_price": 50
           },
           {
-            "meal_name": "蝦仁燴麵",
-            "meal_price": "70)"
+            "food_name": "蝦仁燴麵",
+            "food_price": 70
           },
           {
-            "meal_name": "咖哩雞肉燴麵",
-            "meal_price": "70)"
+            "food_name": "咖哩雞肉燴麵",
+            "food_price": 70
           },
           {
-            "meal_name": "牛肉燴麵",
-            "meal_price": "70)"
+            "food_name": "牛肉燴麵",
+            "food_price": 70
           },
           {
-            "meal_name": "羊肉燴麵",
-            "meal_price": "70)"
+            "food_name": "羊肉燴麵",
+            "food_price": 70
           },
           {
-            "meal_name": "豬肉燴麵",
-            "meal_price": "70)"
+            "food_name": "豬肉燴麵",
+            "food_price": 70
           },
           {
-            "meal_name": "乾板條",
-            "meal_price": "45)"
+            "food_name": "乾板條",
+            "food_price": 45
           },
           {
-            "meal_name": "陽春粄條",
-            "meal_price": "45)"
+            "food_name": "陽春粄條",
+            "food_price": 45
           },
           {
-            "meal_name": "酸辣粄條",
-            "meal_price": "55)"
+            "food_name": "酸辣粄條",
+            "food_price": 55
           },
           {
-            "meal_name": "韓式泡菜粄條",
-            "meal_price": "55)"
+            "food_name": "韓式泡菜粄條",
+            "food_price": 55
           },
           {
-            "meal_name": "炸醬肉絲粄條",
-            "meal_price": "55)"
+            "food_name": "炸醬肉絲粄條",
+            "food_price": 55
           },
           {
-            "meal_name": "餛飩粄條",
-            "meal_price": "60)"
+            "food_name": "餛飩粄條",
+            "food_price": 60
           }
         ]
       },
       {
-        "meal_type_name": "餃子",
-        "meal_type_menu": [
+        "food_type_name": "餃子",
+        "food_type_menu": [
           {
-            "meal_name": "水餃",
-            "meal_price": "45)"
+            "food_name": "水餃",
+            "food_price": 45
           },
           {
-            "meal_name": "沙茶湯餃",
-            "meal_price": "55)"
+            "food_name": "沙茶湯餃",
+            "food_price": 55
           },
           {
-            "meal_name": "酸辣湯餃",
-            "meal_price": "60)"
+            "food_name": "酸辣湯餃",
+            "food_price": 60
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "沙茶燴飯",
-            "meal_price": "55)"
+            "food_name": "沙茶燴飯",
+            "food_price": 55
           },
           {
-            "meal_name": "酸辣燴飯",
-            "meal_price": "60)"
+            "food_name": "酸辣燴飯",
+            "food_price": 60
           },
           {
-            "meal_name": "蝦仁燴飯",
-            "meal_price": "70)"
+            "food_name": "蝦仁燴飯",
+            "food_price": 70
           },
           {
-            "meal_name": "什錦燴飯",
-            "meal_price": "70)"
+            "food_name": "什錦燴飯",
+            "food_price": 70
           },
           {
-            "meal_name": "咖哩雞肉燴飯",
-            "meal_price": "70)"
+            "food_name": "咖哩雞肉燴飯",
+            "food_price": 70
           },
           {
-            "meal_name": "牛肉燴飯",
-            "meal_price": "70)"
+            "food_name": "牛肉燴飯",
+            "food_price": 70
           },
           {
-            "meal_name": "羊肉燴飯",
-            "meal_price": "70)"
+            "food_name": "羊肉燴飯",
+            "food_price": 70
           },
           {
-            "meal_name": "豬肉燴飯",
-            "meal_price": "70)"
+            "food_name": "豬肉燴飯",
+            "food_price": 70
           },
           {
-            "meal_name": "滷肉飯",
-            "meal_price": "45)"
+            "food_name": "滷肉飯",
+            "food_price": 45
           },
           {
-            "meal_name": "咖哩雞肉炒飯",
-            "meal_price": "70)"
+            "food_name": "咖哩雞肉炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "韓式泡菜炒飯",
-            "meal_price": "70)"
+            "food_name": "韓式泡菜炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "燻雞炒飯",
-            "meal_price": "70)"
+            "food_name": "燻雞炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "皮蛋炒飯",
-            "meal_price": "70)"
+            "food_name": "皮蛋炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "牛肉炒飯",
-            "meal_price": "70)"
+            "food_name": "牛肉炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "羊肉炒飯",
-            "meal_price": "70)"
+            "food_name": "羊肉炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "豬肉炒飯",
-            "meal_price": "70)"
+            "food_name": "豬肉炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "蝦仁炒飯",
-            "meal_price": "70)"
+            "food_name": "蝦仁炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "廣東炒飯",
-            "meal_price": "70)"
+            "food_name": "廣東炒飯",
+            "food_price": 70
           },
           {
-            "meal_name": "蛋炒飯",
-            "meal_price": "55)"
+            "food_name": "蛋炒飯",
+            "food_price": 55
           }
         ]
       }
@@ -2964,99 +2964,99 @@
     "rest_name": "料理廚房",
     "rest_menu": [
       {
-        "meal_type_name": "袋餅",
-        "meal_type_menu": [
+        "food_type_name": "袋餅",
+        "food_type_menu": [
           {
-            "meal_name": "蔬菜蛋堡",
-            "meal_price": "65)"
+            "food_name": "蔬菜蛋堡",
+            "food_price": 65
           },
           {
-            "meal_name": "雞肉袋餅",
-            "meal_price": "65)"
+            "food_name": "雞肉袋餅",
+            "food_price": 65
           },
           {
-            "meal_name": "牛肉袋餅",
-            "meal_price": "75)"
+            "food_name": "牛肉袋餅",
+            "food_price": 75
           }
         ]
       },
       {
-        "meal_type_name": "沙拉",
-        "meal_type_menu": [
+        "food_type_name": "沙拉",
+        "food_type_menu": [
           {
-            "meal_name": "黑胡椒嫩雞肉沙拉",
-            "meal_price": "79)"
+            "food_name": "黑胡椒嫩雞肉沙拉",
+            "food_price": 79
           },
           {
-            "meal_name": "咖哩優格嫩雞肉沙拉",
-            "meal_price": "79)"
+            "food_name": "咖哩優格嫩雞肉沙拉",
+            "food_price": 79
           },
           {
-            "meal_name": "蛋沙拉",
-            "meal_price": "79)"
+            "food_name": "蛋沙拉",
+            "food_price": 79
           },
           {
-            "meal_name": "中東雞肉沙拉",
-            "meal_price": "79)"
+            "food_name": "中東雞肉沙拉",
+            "food_price": 79
           },
           {
-            "meal_name": "意式牛肉醬溫沙拉",
-            "meal_price": "79)"
+            "food_name": "意式牛肉醬溫沙拉",
+            "food_price": 79
           }
         ]
       },
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "宮保雞肉蓋飯",
-            "meal_price": "80)"
+            "food_name": "宮保雞肉蓋飯",
+            "food_price": 80
           },
           {
-            "meal_name": "意式牛肉醬蓋飯",
-            "meal_price": "80)"
+            "food_name": "意式牛肉醬蓋飯",
+            "food_price": 80
           },
           {
-            "meal_name": "中東雞肉醬蓋飯",
-            "meal_price": "75)"
+            "food_name": "中東雞肉醬蓋飯",
+            "food_price": 75
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "宮保雞肉拌麵",
-            "meal_price": "80)"
+            "food_name": "宮保雞肉拌麵",
+            "food_price": 80
           },
           {
-            "meal_name": "意式牛肉醬拌麵",
-            "meal_price": "80)"
+            "food_name": "意式牛肉醬拌麵",
+            "food_price": 80
           },
           {
-            "meal_name": "中東雞肉醬拌麵",
-            "meal_price": "75)"
+            "food_name": "中東雞肉醬拌麵",
+            "food_price": 75
           },
           {
-            "meal_name": "西式醬拌麵",
-            "meal_price": "50)"
+            "food_name": "西式醬拌麵",
+            "food_price": 50
           }
         ]
       },
       {
-        "meal_type_name": "餃子",
-        "meal_type_menu": [
+        "food_type_name": "餃子",
+        "food_type_menu": [
           {
-            "meal_name": "雞肉水餃",
-            "meal_price": "80)"
+            "food_name": "雞肉水餃",
+            "food_price": 80
           },
           {
-            "meal_name": "玉米雞肉水餃",
-            "meal_price": "80)"
+            "food_name": "玉米雞肉水餃",
+            "food_price": 80
           },
           {
-            "meal_name": "湯餃",
-            "meal_price": "80)"
+            "food_name": "湯餃",
+            "food_price": 80
           }
         ]
       }
@@ -3066,39 +3066,39 @@
     "rest_name": "興仁食堂",
     "rest_menu": [
       {
-        "meal_type_name": "飯",
-        "meal_type_menu": [
+        "food_type_name": "飯",
+        "food_type_menu": [
           {
-            "meal_name": "牛肉蓋飯",
-            "meal_price": "70)"
+            "food_name": "牛肉蓋飯",
+            "food_price": 70
           },
           {
-            "meal_name": "香菇雞肉蓋飯",
-            "meal_price": "60)"
+            "food_name": "香菇雞肉蓋飯",
+            "food_price": 60
           },
           {
-            "meal_name": "洋蔥豬肉蓋飯",
-            "meal_price": "70)"
+            "food_name": "洋蔥豬肉蓋飯",
+            "food_price": 70
           },
           {
-            "meal_name": "炸雞咖哩飯",
-            "meal_price": "100)"
+            "food_name": "炸雞咖哩飯",
+            "food_price": 100
           },
           {
-            "meal_name": "蛋炒飯",
-            "meal_price": "40)"
+            "food_name": "蛋炒飯",
+            "food_price": 40
           },
           {
-            "meal_name": "滷肉飯",
-            "meal_price": "45)"
+            "food_name": "滷肉飯",
+            "food_price": 45
           },
           {
-            "meal_name": "炸雞塊炒飯",
-            "meal_price": "80)"
+            "food_name": "炸雞塊炒飯",
+            "food_price": 80
           },
           {
-            "meal_name": "招牌控肉飯",
-            "meal_price": "70)"
+            "food_name": "招牌控肉飯",
+            "food_price": 70
           }
         ]
       }
@@ -3108,581 +3108,581 @@
     "rest_name": "喜樂早餐",
     "rest_menu": [
       {
-        "meal_type_name": "漢堡",
-        "meal_type_menu": [
+        "food_type_name": "漢堡",
+        "food_type_menu": [
           {
-            "meal_name": "蔬菜漢堡",
-            "meal_price": "28)"
+            "food_name": "蔬菜漢堡",
+            "food_price": 28
           },
           {
-            "meal_name": "煎蛋漢堡",
-            "meal_price": "28)"
+            "food_name": "煎蛋漢堡",
+            "food_price": 28
           },
           {
-            "meal_name": "起司漢堡",
-            "meal_price": "33)"
+            "food_name": "起司漢堡",
+            "food_price": 33
           },
           {
-            "meal_name": "肉鬆漢堡",
-            "meal_price": "33)"
+            "food_name": "肉鬆漢堡",
+            "food_price": 33
           },
           {
-            "meal_name": "火腿漢堡",
-            "meal_price": "33)"
+            "food_name": "火腿漢堡",
+            "food_price": 33
           },
           {
-            "meal_name": "培根漢堡",
-            "meal_price": "33)"
+            "food_name": "培根漢堡",
+            "food_price": 33
           },
           {
-            "meal_name": "豬肉漢堡",
-            "meal_price": "33)"
+            "food_name": "豬肉漢堡",
+            "food_price": 33
           },
           {
-            "meal_name": "鮪魚漢堡",
-            "meal_price": "38)"
+            "food_name": "鮪魚漢堡",
+            "food_price": 38
           },
           {
-            "meal_name": "薯餅漢堡",
-            "meal_price": "38)"
+            "food_name": "薯餅漢堡",
+            "food_price": 38
           },
           {
-            "meal_name": "麥香雞漢堡",
-            "meal_price": "38)"
+            "food_name": "麥香雞漢堡",
+            "food_price": 38
           },
           {
-            "meal_name": "燻雞漢堡",
-            "meal_price": "43)"
+            "food_name": "燻雞漢堡",
+            "food_price": 43
           },
           {
-            "meal_name": "豬排漢堡",
-            "meal_price": "43)"
+            "food_name": "豬排漢堡",
+            "food_price": 43
           },
           {
-            "meal_name": "燒烤豬排漢堡",
-            "meal_price": "43)"
+            "food_name": "燒烤豬排漢堡",
+            "food_price": 43
           },
           {
-            "meal_name": "鱈魚漢堡",
-            "meal_price": "43)"
+            "food_name": "鱈魚漢堡",
+            "food_price": 43
           },
           {
-            "meal_name": "牛肉漢堡",
-            "meal_price": "43)"
+            "food_name": "牛肉漢堡",
+            "food_price": 43
           },
           {
-            "meal_name": "牛排漢堡",
-            "meal_price": "48)"
+            "food_name": "牛排漢堡",
+            "food_price": 48
           },
           {
-            "meal_name": "照燒腿漢堡",
-            "meal_price": "48)"
+            "food_name": "照燒腿漢堡",
+            "food_price": 48
           },
           {
-            "meal_name": "泰式腿漢堡",
-            "meal_price": "48)"
+            "food_name": "泰式腿漢堡",
+            "food_price": 48
           },
           {
-            "meal_name": "韓式腿漢堡",
-            "meal_price": "48)"
+            "food_name": "韓式腿漢堡",
+            "food_price": 48
           },
           {
-            "meal_name": "咖哩腿漢堡",
-            "meal_price": "48)"
+            "food_name": "咖哩腿漢堡",
+            "food_price": 48
           },
           {
-            "meal_name": "起司雞排漢堡",
-            "meal_price": "48)"
+            "food_name": "起司雞排漢堡",
+            "food_price": 48
           },
           {
-            "meal_name": "卡拉雞排漢堡",
-            "meal_price": "53)"
+            "food_name": "卡拉雞排漢堡",
+            "food_price": 53
           },
           {
-            "meal_name": "總匯漢堡",
-            "meal_price": "58)"
+            "food_name": "總匯漢堡",
+            "food_price": 58
           },
           {
-            "meal_name": "雙層牛肉漢堡",
-            "meal_price": "63)"
+            "food_name": "雙層牛肉漢堡",
+            "food_price": 63
           }
         ]
       },
       {
-        "meal_type_name": "可頌",
-        "meal_type_menu": [
+        "food_type_name": "可頌",
+        "food_type_menu": [
           {
-            "meal_name": "蔬菜可頌",
-            "meal_price": "38)"
+            "food_name": "蔬菜可頌",
+            "food_price": 38
           },
           {
-            "meal_name": "煎蛋可頌",
-            "meal_price": "38)"
+            "food_name": "煎蛋可頌",
+            "food_price": 38
           },
           {
-            "meal_name": "起司可頌",
-            "meal_price": "43)"
+            "food_name": "起司可頌",
+            "food_price": 43
           },
           {
-            "meal_name": "肉鬆可頌",
-            "meal_price": "43)"
+            "food_name": "肉鬆可頌",
+            "food_price": 43
           },
           {
-            "meal_name": "火腿可頌",
-            "meal_price": "43)"
+            "food_name": "火腿可頌",
+            "food_price": 43
           },
           {
-            "meal_name": "培根可頌",
-            "meal_price": "43)"
+            "food_name": "培根可頌",
+            "food_price": 43
           },
           {
-            "meal_name": "豬肉可頌",
-            "meal_price": "43)"
+            "food_name": "豬肉可頌",
+            "food_price": 43
           },
           {
-            "meal_name": "鮪魚可頌",
-            "meal_price": "48)"
+            "food_name": "鮪魚可頌",
+            "food_price": 48
           },
           {
-            "meal_name": "薯餅可頌",
-            "meal_price": "48)"
+            "food_name": "薯餅可頌",
+            "food_price": 48
           },
           {
-            "meal_name": "麥香雞可頌",
-            "meal_price": "48)"
+            "food_name": "麥香雞可頌",
+            "food_price": 48
           },
           {
-            "meal_name": "燻雞可頌",
-            "meal_price": "53)"
+            "food_name": "燻雞可頌",
+            "food_price": 53
           },
           {
-            "meal_name": "豬排可頌",
-            "meal_price": "53)"
+            "food_name": "豬排可頌",
+            "food_price": 53
           },
           {
-            "meal_name": "燒烤豬排可頌",
-            "meal_price": "53)"
+            "food_name": "燒烤豬排可頌",
+            "food_price": 53
           },
           {
-            "meal_name": "鱈魚可頌",
-            "meal_price": "53)"
+            "food_name": "鱈魚可頌",
+            "food_price": 53
           },
           {
-            "meal_name": "牛肉可頌",
-            "meal_price": "53)"
+            "food_name": "牛肉可頌",
+            "food_price": 53
           },
           {
-            "meal_name": "牛排可頌",
-            "meal_price": "58)"
+            "food_name": "牛排可頌",
+            "food_price": 58
           },
           {
-            "meal_name": "照燒腿可頌",
-            "meal_price": "58)"
+            "food_name": "照燒腿可頌",
+            "food_price": 58
           },
           {
-            "meal_name": "泰式腿可頌",
-            "meal_price": "58)"
+            "food_name": "泰式腿可頌",
+            "food_price": 58
           },
           {
-            "meal_name": "韓式腿可頌",
-            "meal_price": "58)"
+            "food_name": "韓式腿可頌",
+            "food_price": 58
           },
           {
-            "meal_name": "咖哩腿可頌",
-            "meal_price": "58)"
+            "food_name": "咖哩腿可頌",
+            "food_price": 58
           },
           {
-            "meal_name": "起司雞排可頌",
-            "meal_price": "58)"
+            "food_name": "起司雞排可頌",
+            "food_price": 58
           },
           {
-            "meal_name": "卡拉雞排可頌",
-            "meal_price": "63)"
+            "food_name": "卡拉雞排可頌",
+            "food_price": 63
           },
           {
-            "meal_name": "總匯可頌",
-            "meal_price": "63)"
+            "food_name": "總匯可頌",
+            "food_price": 63
           }
         ]
       },
       {
-        "meal_type_name": "三明治",
-        "meal_type_menu": [
+        "food_type_name": "三明治",
+        "food_type_menu": [
           {
-            "meal_name": "蔬菜三明治",
-            "meal_price": "23)"
+            "food_name": "蔬菜三明治",
+            "food_price": 23
           },
           {
-            "meal_name": "煎蛋三明治",
-            "meal_price": "23)"
+            "food_name": "煎蛋三明治",
+            "food_price": 23
           },
           {
-            "meal_name": "起司三明治",
-            "meal_price": "28)"
+            "food_name": "起司三明治",
+            "food_price": 28
           },
           {
-            "meal_name": "肉鬆三明治",
-            "meal_price": "28)"
+            "food_name": "肉鬆三明治",
+            "food_price": 28
           },
           {
-            "meal_name": "火腿三明治",
-            "meal_price": "28)"
+            "food_name": "火腿三明治",
+            "food_price": 28
           },
           {
-            "meal_name": "培根三明治",
-            "meal_price": "28)"
+            "food_name": "培根三明治",
+            "food_price": 28
           },
           {
-            "meal_name": "豬肉三明治",
-            "meal_price": "28)"
+            "food_name": "豬肉三明治",
+            "food_price": 28
           },
           {
-            "meal_name": "鮪魚三明治",
-            "meal_price": "33)"
+            "food_name": "鮪魚三明治",
+            "food_price": 33
           },
           {
-            "meal_name": "薯餅三明治",
-            "meal_price": "33)"
+            "food_name": "薯餅三明治",
+            "food_price": 33
           },
           {
-            "meal_name": "麥香雞三明治",
-            "meal_price": "33)"
+            "food_name": "麥香雞三明治",
+            "food_price": 33
           },
           {
-            "meal_name": "燻雞三明治",
-            "meal_price": "38)"
+            "food_name": "燻雞三明治",
+            "food_price": 38
           },
           {
-            "meal_name": "豬排三明治",
-            "meal_price": "38)"
+            "food_name": "豬排三明治",
+            "food_price": 38
           },
           {
-            "meal_name": "燒烤豬排三明治",
-            "meal_price": "38)"
+            "food_name": "燒烤豬排三明治",
+            "food_price": 38
           },
           {
-            "meal_name": "鱈魚三明治",
-            "meal_price": "38)"
+            "food_name": "鱈魚三明治",
+            "food_price": 38
           },
           {
-            "meal_name": "牛肉三明治",
-            "meal_price": "38)"
+            "food_name": "牛肉三明治",
+            "food_price": 38
           },
           {
-            "meal_name": "牛排三明治",
-            "meal_price": "43)"
+            "food_name": "牛排三明治",
+            "food_price": 43
           },
           {
-            "meal_name": "照燒腿三明治",
-            "meal_price": "43)"
+            "food_name": "照燒腿三明治",
+            "food_price": 43
           },
           {
-            "meal_name": "泰式腿三明治",
-            "meal_price": "43)"
+            "food_name": "泰式腿三明治",
+            "food_price": 43
           },
           {
-            "meal_name": "韓式腿三明治",
-            "meal_price": "43)"
+            "food_name": "韓式腿三明治",
+            "food_price": 43
           },
           {
-            "meal_name": "咖哩腿三明治",
-            "meal_price": "43)"
+            "food_name": "咖哩腿三明治",
+            "food_price": 43
           },
           {
-            "meal_name": "起司雞排三明治",
-            "meal_price": "43)"
+            "food_name": "起司雞排三明治",
+            "food_price": 43
           },
           {
-            "meal_name": "卡拉雞排三明治",
-            "meal_price": "48)"
+            "food_name": "卡拉雞排三明治",
+            "food_price": 48
           },
           {
-            "meal_name": "總匯三明治",
-            "meal_price": "53)"
+            "food_name": "總匯三明治",
+            "food_price": 53
           },
           {
-            "meal_name": "雙層牛肉三明治",
-            "meal_price": "58)"
+            "food_name": "雙層牛肉三明治",
+            "food_price": 58
           }
         ]
       },
       {
-        "meal_type_name": "蛋餅",
-        "meal_type_menu": [
+        "food_type_name": "蛋餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味蛋餅",
-            "meal_price": "18)"
+            "food_name": "原味蛋餅",
+            "food_price": 18
           },
           {
-            "meal_name": "起司蛋餅",
-            "meal_price": "28)"
+            "food_name": "起司蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "肉鬆蛋餅",
-            "meal_price": "28)"
+            "food_name": "肉鬆蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "玉米蛋餅",
-            "meal_price": "28)"
+            "food_name": "玉米蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "火腿蛋餅",
-            "meal_price": "28)"
+            "food_name": "火腿蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "培根蛋餅",
-            "meal_price": "28)"
+            "food_name": "培根蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "熱狗蛋餅",
-            "meal_price": "28)"
+            "food_name": "熱狗蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "九層塔蛋餅",
-            "meal_price": "28)"
+            "food_name": "九層塔蛋餅",
+            "food_price": 28
           },
           {
-            "meal_name": "鮪魚蛋餅",
-            "meal_price": "33)"
+            "food_name": "鮪魚蛋餅",
+            "food_price": 33
           },
           {
-            "meal_name": "薯餅蛋餅",
-            "meal_price": "33)"
+            "food_name": "薯餅蛋餅",
+            "food_price": 33
           },
           {
-            "meal_name": "燻雞蛋餅",
-            "meal_price": "38)"
+            "food_name": "燻雞蛋餅",
+            "food_price": 38
           },
           {
-            "meal_name": "豬排蛋餅",
-            "meal_price": "38)"
+            "food_name": "豬排蛋餅",
+            "food_price": 38
           },
           {
-            "meal_name": "燒烤豬排蛋餅",
-            "meal_price": "38)"
+            "food_name": "燒烤豬排蛋餅",
+            "food_price": 38
           },
           {
-            "meal_name": "蔬菜蛋餅",
-            "meal_price": "38)"
+            "food_name": "蔬菜蛋餅",
+            "food_price": 38
           },
           {
-            "meal_name": "牛排蛋餅",
-            "meal_price": "43)"
+            "food_name": "牛排蛋餅",
+            "food_price": 43
           }
         ]
       },
       {
-        "meal_type_name": "麵",
-        "meal_type_menu": [
+        "food_type_name": "麵",
+        "food_type_menu": [
           {
-            "meal_name": "蘑菇蛋鐵板麵",
-            "meal_price": "40)"
+            "food_name": "蘑菇蛋鐵板麵",
+            "food_price": 40
           },
           {
-            "meal_name": "黑胡椒蛋鐵板麵",
-            "meal_price": "40)"
+            "food_name": "黑胡椒蛋鐵板麵",
+            "food_price": 40
           },
           {
-            "meal_name": "沙茶醬蛋鐵板麵",
-            "meal_price": "45)"
+            "food_name": "沙茶醬蛋鐵板麵",
+            "food_price": 45
           },
           {
-            "meal_name": "義大利蛋鐵板麵",
-            "meal_price": "45)"
+            "food_name": "義大利蛋鐵板麵",
+            "food_price": 45
           },
           {
-            "meal_name": "火腿白醬蛋鐵板麵",
-            "meal_price": "50)"
+            "food_name": "火腿白醬蛋鐵板麵",
+            "food_price": 50
           },
           {
-            "meal_name": "宮保雞丁蛋鐵板麵",
-            "meal_price": "50)"
+            "food_name": "宮保雞丁蛋鐵板麵",
+            "food_price": 50
           },
           {
-            "meal_name": "蘑菇火腿蛋麵",
-            "meal_price": "55)"
+            "food_name": "蘑菇火腿蛋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "黑胡椒火腿蛋麵",
-            "meal_price": "55)"
+            "food_name": "黑胡椒火腿蛋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "蘑菇培根蛋麵",
-            "meal_price": "55)"
+            "food_name": "蘑菇培根蛋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "黑胡椒培根蛋麵",
-            "meal_price": "55)"
+            "food_name": "黑胡椒培根蛋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "蘑菇熱狗蛋麵",
-            "meal_price": "55)"
+            "food_name": "蘑菇熱狗蛋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "黑胡椒熱狗蛋麵",
-            "meal_price": "55)"
+            "food_name": "黑胡椒熱狗蛋麵",
+            "food_price": 55
           },
           {
-            "meal_name": "蘑菇豬排蛋麵",
-            "meal_price": "60)"
+            "food_name": "蘑菇豬排蛋麵",
+            "food_price": 60
           },
           {
-            "meal_name": "黑胡椒豬排蛋麵",
-            "meal_price": "60)"
+            "food_name": "黑胡椒豬排蛋麵",
+            "food_price": 60
           },
           {
-            "meal_name": "蘑菇韓式腿蛋麵",
-            "meal_price": "65)"
+            "food_name": "蘑菇韓式腿蛋麵",
+            "food_price": 65
           },
           {
-            "meal_name": "黑胡椒韓式腿蛋麵",
-            "meal_price": "65)"
+            "food_name": "黑胡椒韓式腿蛋麵",
+            "food_price": 65
           }
         ]
       },
       {
-        "meal_type_name": "吐司",
-        "meal_type_menu": [
+        "food_type_name": "吐司",
+        "food_type_menu": [
           {
-            "meal_name": "巧克力薄片",
-            "meal_price": "13)"
+            "food_name": "巧克力薄片",
+            "food_price": 13
           },
           {
-            "meal_name": "巧克力厚片",
-            "meal_price": "23)"
+            "food_name": "巧克力厚片",
+            "food_price": 23
           },
           {
-            "meal_name": "花生薄片",
-            "meal_price": "13)"
+            "food_name": "花生薄片",
+            "food_price": 13
           },
           {
-            "meal_name": "花生厚片",
-            "meal_price": "23)"
+            "food_name": "花生厚片",
+            "food_price": 23
           },
           {
-            "meal_name": "奶油薄片",
-            "meal_price": "13)"
+            "food_name": "奶油薄片",
+            "food_price": 13
           },
           {
-            "meal_name": "奶油厚片",
-            "meal_price": "23)"
+            "food_name": "奶油厚片",
+            "food_price": 23
           },
           {
-            "meal_name": "草莓薄片",
-            "meal_price": "13)"
+            "food_name": "草莓薄片",
+            "food_price": 13
           },
           {
-            "meal_name": "草莓厚片",
-            "meal_price": "23)"
+            "food_name": "草莓厚片",
+            "food_price": 23
           },
           {
-            "meal_name": "香蒜薄片",
-            "meal_price": "13)"
+            "food_name": "香蒜薄片",
+            "food_price": 13
           },
           {
-            "meal_name": "香蒜厚片",
-            "meal_price": "23)"
+            "food_name": "香蒜厚片",
+            "food_price": 23
           },
           {
-            "meal_name": "藍莓薄片",
-            "meal_price": "18)"
+            "food_name": "藍莓薄片",
+            "food_price": 18
           },
           {
-            "meal_name": "藍莓厚片",
-            "meal_price": "28)"
+            "food_name": "藍莓厚片",
+            "food_price": 28
           },
           {
-            "meal_name": "椰香薄片",
-            "meal_price": "13)"
+            "food_name": "椰香薄片",
+            "food_price": 13
           },
           {
-            "meal_name": "椰香厚片",
-            "meal_price": "23)"
+            "food_name": "椰香厚片",
+            "food_price": 23
           },
           {
-            "meal_name": "葡萄奶酥薄片",
-            "meal_price": "18)"
+            "food_name": "葡萄奶酥薄片",
+            "food_price": 18
           },
           {
-            "meal_name": "葡萄奶酥厚片",
-            "meal_price": "28)"
+            "food_name": "葡萄奶酥厚片",
+            "food_price": 28
           }
         ]
       },
       {
-        "meal_type_name": "燒餅",
-        "meal_type_menu": [
+        "food_type_name": "燒餅",
+        "food_type_menu": [
           {
-            "meal_name": "原味燒餅",
-            "meal_price": "33)"
+            "food_name": "原味燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "奶油燒餅",
-            "meal_price": "33)"
+            "food_name": "奶油燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "花生燒餅",
-            "meal_price": "33)"
+            "food_name": "花生燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "椰香燒餅",
-            "meal_price": "33)"
+            "food_name": "椰香燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "草莓燒餅",
-            "meal_price": "33)"
+            "food_name": "草莓燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "香蒜燒餅",
-            "meal_price": "33)"
+            "food_name": "香蒜燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "巧克力燒餅",
-            "meal_price": "33)"
+            "food_name": "巧克力燒餅",
+            "food_price": 33
           },
           {
-            "meal_name": "藍莓燒餅",
-            "meal_price": "38)"
+            "food_name": "藍莓燒餅",
+            "food_price": 38
           },
           {
-            "meal_name": "葡萄奶酥燒餅",
-            "meal_price": "38)"
+            "food_name": "葡萄奶酥燒餅",
+            "food_price": 38
           },
           {
-            "meal_name": "煎蛋燒餅",
-            "meal_price": "38)"
+            "food_name": "煎蛋燒餅",
+            "food_price": 38
           },
           {
-            "meal_name": "起司燒餅",
-            "meal_price": "38)"
+            "food_name": "起司燒餅",
+            "food_price": 38
           },
           {
-            "meal_name": "火腿燒餅",
-            "meal_price": "38)"
+            "food_name": "火腿燒餅",
+            "food_price": 38
           },
           {
-            "meal_name": "培根燒餅",
-            "meal_price": "38)"
+            "food_name": "培根燒餅",
+            "food_price": 38
           },
           {
-            "meal_name": "鮪魚燒餅",
-            "meal_price": "43)"
+            "food_name": "鮪魚燒餅",
+            "food_price": 43
           },
           {
-            "meal_name": "燻雞燒餅",
-            "meal_price": "43)"
+            "food_name": "燻雞燒餅",
+            "food_price": 43
           },
           {
-            "meal_name": "豬排燒餅",
-            "meal_price": "43)"
+            "food_name": "豬排燒餅",
+            "food_price": 43
           },
           {
-            "meal_name": "燒烤豬排燒餅",
-            "meal_price": "43)"
+            "food_name": "燒烤豬排燒餅",
+            "food_price": 43
           },
           {
-            "meal_name": "牛排燒餅",
-            "meal_price": "48)"
+            "food_name": "牛排燒餅",
+            "food_price": 48
           }
         ]
       }

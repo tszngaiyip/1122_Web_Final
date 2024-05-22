@@ -23,11 +23,11 @@ def sales():
 
 @app.route("/query")
 def query():
+    rest_name = request.args.get("rn")
+    food_type = request.args.get("ft")
     rand_seed = request.args.get("rs")
     rand_seed = float(rand_seed) if rand_seed else None
-    rest_name = request.args.get("rn")
-    meal_type = request.args.get("mt")
-    query_result = db_helper.query(rest_name, meal_type, rand_seed)
+    query_result = db_helper.rand_pick(rest_name, food_type, rand_seed)
     return jsonify(query_result)
 
 

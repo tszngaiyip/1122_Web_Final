@@ -7,67 +7,69 @@ class DatabaseHelper:
         self.db_name = db_name
         self.db = json.load(open(self.db_name, encoding="utf-8"))
 
-    def query(self, query_rest_name=None, query_meal_type=None, rand_seed=None) -> dict:
-        ret: dict = {}
+    def rand_pick(self, query_rest_name=None, query_food_type=None, rand_seed=None) -> dict:
+        food_dict = self.query(
+            None if query_rest_name == '都可' else query_rest_name,
+            None if query_food_type == '都可' else query_food_type
+        )
+        random.seed(rand_seed)
+        choice = random.choice(food_dict['rest_menu']['meal_type_menu'])
+        return {
+            'food_type': query_food_type,
+            'food_name': choice['meal_name'],
+            'food_price': choice['meal_price'],
+        }
+
+    def query(self, query_rest_name=None, query_food_type=None) -> dict:
 
         # query for both
-        if query_rest_name and query_meal_type:
+        if query_rest_name and query_food_type:
             result = []
             for rest in self.db:
                 if query_rest_name == rest['rest_name']:
                     for meal_type in rest['rest_menu']:
-                        if query_meal_type == meal_type['meal_type_name']:
-                            for meal in meal_type['meal_type_menu']:
-                                result.append(meal)
-            ret = {
+                        if query_food_type == meal_type['meal_type_name']:
+                            return {
+                                'rest_name': query_rest_name,
+                                'rest_menu': {
+                                    'meal_type_name': query_food_type,
+                                    'meal_type_menu': meal_type['meal_type_menu']
+                                }
+                            }
+
+        # query for rest name only
+        if query_rest_name:
+            result = []
+            for rest in self.db:
+                if query_rest_name == rest['rest_name']:
+                    for meal_type in rest['rest_menu']:
+                        for meal in meal_type['meal_type_menu']:
+                            result.append(meal)
+            return {
                 'rest_name': query_rest_name,
                 'rest_menu': {
-                    'meal_type_name': query_meal_type,
+                    'meal_type_name': 'all',
                     'meal_type_menu': result
                 }
             }
 
-        # query for rest name only
-        # if query_rest_name:
-        #     for rest in self.db:
-        #         if query_rest_name == rest['rest_name']:
-        #             ret = rest
-        #             break
-        #
-        # # query for meal type only
-        # if query_meal_type:
-        #     result = []
-        #     for rest in self.db:
-        #         for meal_type in rest['rest_menu']:
-        #             if query_meal_type == meal_type['meal_type_name']:
-        #                 result.append(meal_type['meal_type_menu'])
-        #     ret = {
-        #         'rest_name': '全部',
-        #         'rest_menu': {
-        #             'meal_type_name': query_meal_type,
-        #             'meal_type_menu': result
-        #         }
-        #     }
+        # query for meal type only
+        if query_food_type:
+            result = []
+            for rest in self.db:
+                for meal_type in rest['rest_menu']:
+                    if query_food_type == meal_type['meal_type_name']:
+                        for meal in meal_type['meal_type_menu']:
+                            result.append(meal)
+            return {
+                'rest_name': 'all',
+                'rest_menu': {
+                    'meal_type_name': query_food_type,
+                    'meal_type_menu': result
+                }
+            }
 
         else:
             ret = {'error': 'No query parameters provided'}
-
-        if rand_seed:
-            random.seed(rand_seed)
-            print(ret)
-            ret['rest_menu']['meal_type_menu'] = [random.choice(ret['rest_menu']['meal_type_menu'])]
-
-            # random_rest = random.choice(ret['rest_menu']['meal_type_menu'])  # 随机选择一个餐馆
-            # random_meal_type = random.choice(random_rest['rest_menu'])  # 随机选择一个餐类型
-            # random_meal = random.choice(random_meal_type['meal_type_menu'])  # 随机选择一个餐点
-            # ret = {
-            #     'rest_name': random_rest['rest_name'],
-            #     'rest_menu': {
-            #         'meal_type_name': random_meal_type['meal_type_name'],
-            #         'meal_type_menu': [
-            #             random_meal
-            #         ]
-            #     }
-            # }
 
         return ret
