@@ -6,20 +6,14 @@ $(document).ready(function(){
         fetch(queryUrl)
             .then(response => response.json())
             .then(data => {
-                // 处理并显示 JSON 数据
-                let resultHtml = '';
-                if (Array.isArray(data)) {
-                    data.forEach(item => {
-                        resultHtml += `<p>${JSON.stringify(item)}</p>`;
-                    });
-                } else {
-                    resultHtml = `<p>${JSON.stringify(data)}</p>`;
-                }
-                document.getElementById("result").innerHTML = resultHtml;
+                $("#result-food-type").text(data["food_type"]);
+                $("#result-food-name").text(data["food_name"]);
+                $("#result-food-price").text(data["food_price"]);
             })
             .catch(error => {
-                console.error('Error:', error);
-                document.getElementById("result").innerHTML = 'Error occurred while fetching data.';
+                $("#result-food-type").text("NULL");
+                $("#result-food-name").text("查詢錯誤");
+                $("#result-food-price").text("N/A");
             });
     }
 
