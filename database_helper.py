@@ -13,11 +13,11 @@ class DatabaseHelper:
             None if query_food_type == '都可' else query_food_type
         )
         random.seed(rand_seed)
-        choice = random.choice(food_dict['rest_menu']['meal_type_menu'])
+        choice = random.choice(food_dict['rest_menu']['food_type_menu'])
         return {
             'food_type': query_food_type,
-            'food_name': choice['meal_name'],
-            'food_price': choice['meal_price'],
+            'food_name': choice['food_name'],
+            'food_price': choice['food_price'],
         }
 
     def query(self, query_rest_name=None, query_food_type=None) -> dict:
@@ -27,13 +27,13 @@ class DatabaseHelper:
             result = []
             for rest in self.db:
                 if query_rest_name == rest['rest_name']:
-                    for meal_type in rest['rest_menu']:
-                        if query_food_type == meal_type['meal_type_name']:
+                    for food_type in rest['rest_menu']:
+                        if query_food_type == food_type['food_type_name']:
                             return {
                                 'rest_name': query_rest_name,
                                 'rest_menu': {
-                                    'meal_type_name': query_food_type,
-                                    'meal_type_menu': meal_type['meal_type_menu']
+                                    'food_type_name': query_food_type,
+                                    'food_type_menu': food_type['food_type_menu']
                                 }
                             }
 
@@ -42,30 +42,30 @@ class DatabaseHelper:
             result = []
             for rest in self.db:
                 if query_rest_name == rest['rest_name']:
-                    for meal_type in rest['rest_menu']:
-                        for meal in meal_type['meal_type_menu']:
-                            result.append(meal)
+                    for food_type in rest['rest_menu']:
+                        for food in food_type['food_type_menu']:
+                            result.append(food)
             return {
                 'rest_name': query_rest_name,
                 'rest_menu': {
-                    'meal_type_name': 'all',
-                    'meal_type_menu': result
+                    'food_type_name': 'all',
+                    'food_type_menu': result
                 }
             }
 
-        # query for meal type only
+        # query for food type only
         if query_food_type:
             result = []
             for rest in self.db:
-                for meal_type in rest['rest_menu']:
-                    if query_food_type == meal_type['meal_type_name']:
-                        for meal in meal_type['meal_type_menu']:
-                            result.append(meal)
+                for food_type in rest['rest_menu']:
+                    if query_food_type == food_type['food_type_name']:
+                        for food in food_type['food_type_menu']:
+                            result.append(food)
             return {
                 'rest_name': 'all',
                 'rest_menu': {
-                    'meal_type_name': query_food_type,
-                    'meal_type_menu': result
+                    'food_type_name': query_food_type,
+                    'food_type_menu': result
                 }
             }
 
