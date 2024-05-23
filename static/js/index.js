@@ -2,28 +2,31 @@ const rest_name = '卡利西里'
 
 
 $(document).ready(function(){
+    $("#submit-button").prop('disabled', true);
+    $("#submit-button").css('background-color', 'grey');
+
+    // gray out the submit button
+    $("#submit-button").prop('disabled', true);
     function fetchData(queryUrl) {
         fetch(queryUrl)
             .then(response => response.json())
             .then(data => {
-                // 处理并显示 JSON 数据
-                let resultHtml = '';
-                if (Array.isArray(data)) {
-                    data.forEach(item => {
-                        resultHtml += `<p>${JSON.stringify(item)}</p>`;
-                    });
-                } else {
-                    resultHtml = `<p>${JSON.stringify(data)}</p>`;
-                }
-                document.getElementById("result").innerHTML = resultHtml;
+                $("#result-food-type").text(data["food_type"]);
+                $("#result-food-name").text(data["food_name"]);
+                $("#result-food-price").text(data["food_price"]);
             })
             .catch(error => {
-                console.error('Error:', error);
-                document.getElementById("result").innerHTML = 'Error occurred while fetching data.';
+                $("#result-food-type").text("NULL");
+                $("#result-food-name").text("查詢錯誤");
+                $("#result-food-price").text("N/A");
             });
     }
 
     $("#filter-button").click(function(event){
+        // enable the submit button
+        $("#submit-button").prop('disabled', false);
+        $("#submit-button").css('background-color', '#ffffff');
+
         event.preventDefault();
         let queryUrl = '/query?rn=' + rest_name;
         let foodType = $("input[name='food_type[]']:checked").val();
@@ -33,10 +36,23 @@ $(document).ready(function(){
     });
 
     $("#submit-button").click(function (event) {
-        console.log('randomly_pick');
-        event.preventDefault();
+        // 修改按鈕文字和狀態
+        $("#submit-button").text('請稍候');
+        $("#submit-button").prop('disabled', true);
+        $("#submit-button").css('background-color', 'grey');
 
-        let queryUrl = '/query?rs='+Math.random();
-        fetchData(queryUrl);
+        // 等待0.5到2秒後改變按鈕文字
+        setTimeout(function () {
+            $("#submit-button").text('已送出');
+
+            // 再次等待一小段時間，確保文字更新
+            setTimeout(function () {
+                // 顯示彈出視窗
+                window.alert('成功送出訂單');
+
+                // 重定向到新頁面
+                window.location.href = '/';
+            }, 100); // 短暫等待100毫秒，確保按鈕文字更新
+        }, Math.random() * 1500 + 500);
     });
 });
