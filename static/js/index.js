@@ -2,6 +2,11 @@ const rest_name = '卡利西里'
 
 
 $(document).ready(function(){
+    $("#submit-button").prop('disabled', true);
+    $("#submit-button").css('background-color', 'grey');
+
+    // gray out the submit button
+    $("#submit-button").prop('disabled', true);
     function fetchData(queryUrl) {
         fetch(queryUrl)
             .then(response => response.json())
@@ -18,6 +23,10 @@ $(document).ready(function(){
     }
 
     $("#filter-button").click(function(event){
+        // enable the submit button
+        $("#submit-button").prop('disabled', false);
+        $("#submit-button").css('background-color', '#ffffff');
+
         event.preventDefault();
         let queryUrl = '/query?rn=' + rest_name;
         let foodType = $("input[name='food_type[]']:checked").val();
@@ -27,6 +36,23 @@ $(document).ready(function(){
     });
 
     $("#submit-button").click(function (event) {
+        // 修改按鈕文字和狀態
+        $("#submit-button").text('請稍候');
+        $("#submit-button").prop('disabled', true);
+        $("#submit-button").css('background-color', 'grey');
 
+        // 等待0.5到2秒後改變按鈕文字
+        setTimeout(function () {
+            $("#submit-button").text('已送出');
+
+            // 再次等待一小段時間，確保文字更新
+            setTimeout(function () {
+                // 顯示彈出視窗
+                window.alert('成功送出訂單');
+
+                // 重定向到新頁面
+                window.location.href = '/';
+            }, 100); // 短暫等待100毫秒，確保按鈕文字更新
+        }, Math.random() * 1500 + 500);
     });
 });
