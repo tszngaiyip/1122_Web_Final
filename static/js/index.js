@@ -33,10 +33,6 @@ $(document).ready(function(){
     });
 
     $("#submit-button").click(function (event) {
-        console.log('randomly_pick');
-        event.preventDefault();
 
-        let queryUrl = '/query?rs='+Math.random();
-        fetchData(queryUrl);
     });
 });
