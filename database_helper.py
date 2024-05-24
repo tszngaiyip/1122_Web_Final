@@ -55,19 +55,26 @@ class DatabaseHelper:
 
         # query for food type only
         if query_food_type:
-            result = []
+            ret = self.db
             for rest in self.db:
-                for food_type in rest['rest_menu']:
-                    if query_food_type == food_type['food_type_name']:
-                        for food in food_type['food_type_menu']:
-                            result.append(food)
-            return {
-                'rest_name': 'all',
-                'rest_menu': {
-                    'food_type_name': query_food_type,
-                    'food_type_menu': result
-                }
-            }
+                for menu in rest['rest_menu']:
+                    if query_food_type != menu['food_type_name']:
+                        rest['rest_menu'].remove(menu)
+            return ret
+
+            # result = []
+            # for rest in self.db:
+            #     for food_type in rest['rest_menu']:
+            #         if query_food_type == food_type['food_type_name']:
+            #             for food in food_type['food_type_menu']:
+            #                 result.append(food)
+            # return {
+            #     'rest_name': 'all',
+            #     'rest_menu': {
+            #         'food_type_name': query_food_type,
+            #         'food_type_menu': result
+            #     }
+            # }
 
         else:
             ret = {'error': 'No query parameters provided'}
