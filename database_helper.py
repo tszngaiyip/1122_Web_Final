@@ -7,18 +7,32 @@ class DatabaseHelper:
         self.db_name = db_name
         self.db = json.load(open(self.db_name, encoding="utf-8"))
 
-    def rand_pick(self, query_rest_name=None, query_food_type=None, rand_seed=None) -> dict:
-        food_dict = self.query(
-            None if query_rest_name == '都可' else query_rest_name,
-            None if query_food_type == '都可' else query_food_type
-        )
-        random.seed(rand_seed)
-        choice = random.choice(food_dict['rest_menu']['food_type_menu'])
-        return {
-            'food_type': query_food_type,
-            'food_name': choice['food_name'],
-            'food_price': choice['food_price'],
+    def rand_pick_in_rest(self, query_rest_name, query_food_type, rand_seed) -> dict:
+        ret = {
+            'food_type': None,
+            'food_name': None,
+            'food_price': None,
         }
+        if query_food_type == '都可':
+            query_result: dict = self.query(query_rest_name, None)
+            random.seed(rand_seed)
+            choice = random.choice(query_result['rest_menu'])
+            ret['food_type'] = choice['food_type_name']
+            choice = random.choice(choice['food_type_menu'])
+            ret['food_name'] = choice['food_name']
+            ret['food_price'] = choice['food_price']
+
+            return ret
+
+        query_result: dict = self.query(query_rest_name, query_food_type)
+        print(query_result)
+        random.seed(rand_seed)
+        choice = random.choice(query_result['rest_menu']['food_type_menu'])
+        ret['food_type'] = query_food_type
+        ret['food_name'] = choice['food_name']
+        ret['food_price'] = choice['food_price']
+
+        return ret
 
     def query(self, query_rest_name=None, query_food_type=None) -> dict:
 

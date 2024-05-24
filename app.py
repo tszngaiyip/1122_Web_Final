@@ -27,7 +27,7 @@ def query():
     food_type = request.args.get("ft")
     rand_seed = request.args.get("rs")
     rand_seed = float(rand_seed) if rand_seed else None
-    query_result = db_helper.rand_pick(rest_name, food_type, rand_seed)
+    query_result = db_helper.rand_pick_in_rest(rest_name, food_type, rand_seed)
     return jsonify(query_result)
 
 
