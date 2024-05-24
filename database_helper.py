@@ -39,19 +39,23 @@ class DatabaseHelper:
 
         # query for rest name only
         if query_rest_name:
-            result = []
+            # result = []
             for rest in self.db:
                 if query_rest_name == rest['rest_name']:
-                    for food_type in rest['rest_menu']:
-                        for food in food_type['food_type_menu']:
-                            result.append(food)
-            return {
-                'rest_name': query_rest_name,
-                'rest_menu': {
-                    'food_type_name': 'all',
-                    'food_type_menu': result
-                }
-            }
+                    return {
+                        'rest_name': query_rest_name,
+                        'rest_menu': rest['rest_menu']
+                    }
+            #         for food_type in rest['rest_menu']:
+            #             for food in food_type['food_type_menu']:
+            #                 result.append(food)
+            # return {
+            #     'rest_name': query_rest_name,
+            #     'rest_menu': {
+            #         'food_type_name': 'all',
+            #         'food_type_menu': result
+            #     }
+            # }
 
         # query for food type only
         if query_food_type:
