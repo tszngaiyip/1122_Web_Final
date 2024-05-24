@@ -1,5 +1,41 @@
 const rest_name = '卡利西里'
 
+//chatbot animation
+$(document).ready(function() {
+    $('#chatbot-button').click(function() {
+        $('#chatbot-dialog').toggleClass('show');
+    });
+});
+
+// 顯示本月的公休時間
+$(document).ready(function() {
+    function generateRestDays() { // 生成本月的公休日期
+        let restDays = [];
+        let date = new Date();
+        // let date = new Date(2024, 6, 1); //for testing
+        let month = date.getMonth();
+        let year = date.getFullYear();
+
+        date.setDate(1);
+
+        while (date.getDay() !== 1) {
+            date.setDate(date.getDate() + 1);
+        }
+
+        while (date.getMonth() === month) {
+            restDays.push(new Date(date.getTime()));
+            date.setDate(date.getDate() + 7);
+        }
+
+        return restDays;
+    }
+
+    // 將公休日期添加到#left_di元素中
+    let restDays = generateRestDays();
+    let restDaysString = restDays.map(date => `${date.getMonth() + 1}/${date.getDate()}`).join(', ');
+
+    $(".left_di").append("&nbsp<h4>"+restDaysString+"</h4>");
+    });
 
 $(document).ready(function(){
     $("#submit-button").prop('disabled', true);
