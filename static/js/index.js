@@ -64,9 +64,9 @@ $(document).ready(function(){
         $("#submit-button").css('background-color', '#ffffff');
 
         event.preventDefault();
-        let queryUrl = '/query?rn=' + rest_name;
+        let queryUrl = '/query?';
         let foodType = $("input[name='food_type[]']:checked").val();
-        queryUrl += `&ft=${encodeURIComponent(foodType)}`;
+        queryUrl += `ft=${encodeURIComponent(foodType)}`;
         queryUrl += '&rs='+Math.random();
         fetchData(queryUrl);
     });
