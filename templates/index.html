@@ -38,7 +38,25 @@
 	</div>
 	<div class="chatbot">
 		<div id="chatbot-dialog">
-			<!-- 聊天機器人的對話內容將在這裡顯示 -->
+            <header>
+                <h1>餐廳AI助理</h1>
+            </header>
+            <main>
+                <section>
+                    <h2 id="userQuestionTitle">您的問題</h2> <!-- 使用 id 來選取 -->
+                </section>
+                <aside>
+                    <h2>AI回覆</h2>
+                    <div id="responseBox"></div> <!-- AI回覆顯示區 -->
+                </aside>
+            </main>
+            <footer>
+                <form id="questionForm">
+                    <label for="question">請輸入問題:</label>
+                    <input style="color: #080710" type="text" id="question" name="question" required>
+                    <button type="submit">送出</button>
+                </form>
+            </footer>
 		</div>
 		<button id="chatbot-button"><i class='far fa-comment-dots'></i></button>
 	</div>

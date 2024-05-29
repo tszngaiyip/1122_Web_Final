@@ -92,3 +92,47 @@ $(document).ready(function(){
         }, Math.random() * 1500 + 500);
     });
 });
+
+$(document).ready(function() {
+    document.getElementById('questionForm').addEventListener('submit', function (event) {
+        event.preventDefault();
+
+        // 取得輸入的問題
+        const questionInput = document.getElementById('question');
+        const question = questionInput.value;
+
+        // 顯示輸入的問題並直接更新 <h2>
+        const userQuestionTitle = document.getElementById('userQuestionTitle');
+        userQuestionTitle.textContent = question;
+
+        // 初始化 AI 回覆
+        const responseBox = document.getElementById('responseBox');
+        responseBox.textContent = "機器人思考中...";
+
+        // 發送問題到後端並處理回應
+        fetch('/call_llm_hint', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: new URLSearchParams({
+                'question': question
+            })
+        })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    responseBox.textContent = "發生錯誤: " + data.error;
+                } else {
+                    responseBox.textContent = "回答: " + data.answer;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                responseBox.textContent = "發生錯誤，請稍後再試。";
+            });
+
+        // 清空輸入欄
+        questionInput.value = '';
+    });
+});
