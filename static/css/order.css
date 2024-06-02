@@ -3,37 +3,6 @@ body {
     font-family: 'Poppins', 'Noto Sans TC', sans-serif;
 }
 
-.background {
-    width: 430px;
-    height: 520px;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    left: 50%;
-    top: 50%;
-}
-
-.background .shape {
-    height: 200px;
-    width: 200px;
-    position: absolute;
-    border-radius: 50%;
-}
-
-.shape:first-child {
-    background: linear-gradient(#1845ad,
-            #23a2f6);
-    left: -80px;
-    top: -80px;
-}
-
-.shape:last-child {
-    background: linear-gradient(to right,
-            #ff512f,
-            #f09819);
-    right: -30px;
-    bottom: -80px;
-}
-
 h1{
     text-align: center;
     color:white;
@@ -61,12 +30,10 @@ table {
   td {
     padding: 8px;
     text-align: left;
-    border-bottom: 1px solid #ddd;
   }
 #tab {
     width: 600px;
     background: 	#DCDCDC;
-    border: solid 1px 	#DCDCDC;
     margin-left: auto; 
     margin-right: auto; 
     border-radius: 5px;
@@ -154,8 +121,9 @@ span ~ #tab > div:first-of-type,
 
     visibility: visible;
     height: 750px;
-    background-color: rgba(255, 255, 255, 0.13);
     border-radius: 5px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 span {
