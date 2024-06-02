@@ -1,11 +1,44 @@
-body{
-    background-color: #333;
+body {
+    background-color: #080710;
+    font-family: 'Poppins', 'Noto Sans TC', sans-serif;
+}
+
+.background {
+    width: 430px;
+    height: 520px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+
+.background .shape {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.shape:first-child {
+    background: linear-gradient(#1845ad,
+            #23a2f6);
+    left: -80px;
+    top: -80px;
+}
+
+.shape:last-child {
+    background: linear-gradient(to right,
+            #ff512f,
+            #f09819);
+    right: -30px;
+    bottom: -80px;
 }
 
 h1{
     text-align: center;
     color:white;
 }
+
 .button {
     background-color: 	#DCDCDC; 
     border: none;
@@ -118,9 +151,10 @@ span ~ #tab > div:first-of-type,
 #tab-6:target ~ #tab > div.tab-content-6,
 #tab-7:target ~ #tab > div.tab-content-7,
 #tab-8:target ~ #tab > div.tab-content-8 {
+
     visibility: visible;
-    height: 1060px;
-    background: #fff;
+    height: 750px;
+    background-color: rgba(255, 255, 255, 0.13);
     border-radius: 5px;
 }
 
