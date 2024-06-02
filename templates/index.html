@@ -39,21 +39,21 @@
 	<div class="chatbot">
 		<div id="chatbot-dialog">
             <header>
-                <h1>餐廳AI助理</h1>
+                <h3>餐廳AI助理</h3>
             </header>
             <main>
                 <section>
-                    <h2 id="userQuestionTitle">您的問題</h2> <!-- 使用 id 來選取 -->
+                    <h4 id="userQuestionTitle" style="text-align: left">您的問題</h4> <!-- 使用 id 來選取 -->
                 </section>
                 <aside>
-                    <h2>AI回覆</h2>
+                    <h4 style="text-align: left">AI回覆</h4>
                     <div id="responseBox"></div> <!-- AI回覆顯示區 -->
                 </aside>
             </main>
             <footer>
                 <form id="questionForm">
                     <label for="question">請輸入問題:</label>
-                    <input style="color: #080710" type="text" id="question" name="question" required>
+                    <input type="text" id="question" name="question" required>
                     <button type="submit">送出</button>
                 </form>
             </footer>
