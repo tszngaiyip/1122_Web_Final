@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/order.css') }}">
+    <title>點餐</title>
+    <link rel="stylesheet" type="text/css" href="static/css/order.css">
     <script src="{{ url_for('static', filename='js/order.js') }}"></script>
 </head>
 <body>
-    <button onclick="location.href='/'" style="
+<h1>直接點餐</h1>
+<button onclick="location.href='/'" style="
 						top: -20px;
 						left: 20px;
 						position: absolute;
@@ -18,4 +20,337 @@
 						font-weight: 600;
 						border-radius: 5px;
 						cursor: pointer;">回到主頁</button>
+
+
+<span id="tab-1">套餐</span>
+<span id="tab-2">麵</span>
+<span id="tab-3">飯</span>
+<span id="tab-4">潛艇堡</span>
+<span id="tab-5">吐司</span>
+<span id="tab-6">沙拉</span>
+<span id="tab-7">三明治</span>
+<span id="tab-8">鬆餅</span>
+
+<!-- 按鈕 -->
+<div id="tab">
+    <ul>
+        <li><a href="#tab-1">套餐</a></li>
+        <li><a href="#tab-2">麵</a></li>
+        <li><a href="#tab-3">飯</a></li>
+        <li><a href="#tab-4">潛艇堡</a></li>
+        <li><a href="#tab-5">吐司</a></li>
+        <li><a href="#tab-6">沙拉</a></li>
+        <li><a href="#tab-7">三明治</a></li>
+        <li><a href="#tab-8">鬆餅</a></li>
+    </ul>
+
+    <!-- 內容 -->
+    <div class="tab-content-1">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">馬鈴薯沙拉鬆餅套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">燻雞沙拉鬆餅套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">原味燻雞堡套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">卡拉嫩雞堡套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">原味魚排堡套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">培根義大利麵套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">培根義大利飯套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">燻雞義大利飯套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">燻雞義大利麵套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">魚排義大利麵套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">魚排義大利飯套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蛤蜊義大利麵套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蛤蜊義大利飯套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蜂蜜鬆餅套餐</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">花生鬆餅套餐</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-2">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">義大利麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">田園培根麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">德式燻肉麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">紐澳良燻雞麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">卡拉嫩雞麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">冰島魚排麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蛤蠣麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">脆皮雞排麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">花枝麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">燒肉麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">燒肉便當</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">椒麻雞胸麵</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">椒麻雞胸便當</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-3">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">田園培根飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">德式燻肉飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">紐澳良燻雞飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">卡拉嫩雞飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">冰島魚排飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蛤蠣飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">脆皮雞排飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">花枝飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">椒麻雞胸飯</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蜂蜜鬆餅</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">花生鬆餅</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-4">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">原味香薯堡</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">原味燻雞堡</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">蜜燒燻雞堡</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">紐澳良燻雞堡</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蜂蜜鬆餅</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">花生鬆餅</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-5">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">花生厚片</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">奶酥厚片</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">巧克力厚片</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">煉乳厚片</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蜂蜜厚片</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">火腿蛋土司</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-6">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">總匯沙拉(千島醬)</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">椒麻雞胸肉沙拉</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">燻雞沙拉</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">火腿沙拉</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-7">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">馬鈴薯沙拉三明治</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">燻雞沙拉三明治</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">雞排九層塔三明治</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">卡拉雞三明治</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+    <div class="tab-content-8">
+        <table>
+            <div>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">原味鬆餅</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">蜂蜜鬆餅</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="set" value="set">
+                        <label for="set">花生鬆餅</label></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="type" id="noodle" value="noodle">
+                        <label for="noodle">巧克力鬆餅</label></td>
+                </tr>
+            </div>
+        </table>
+    </div>
+</div>
+
+
+
+<div>
+    <button onclick="location.href='/ordered'" class="button" type="submit">送出訂單</button>
+</div>
 </body>
+</html>

@@ -18,6 +18,11 @@ def order():
     return render_template("order.html")
 
 
+@app.route("/ordered")
+def ordered():
+    return render_template("ordered.html")
+
+
 @app.route("/sales")
 def sales():
     return render_template("sales.html")
