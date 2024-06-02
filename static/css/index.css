@@ -263,9 +263,115 @@ th {
     opacity: 0;
     transition: transform 0.3s ease-out, opacity 0.3s ease-out;
     transform-origin: bottom right;
+    text-align: center;
 }
 
 #chatbot-dialog.show {
     transform: scale(1);
     opacity: 1;
+}
+
+/* the code below is conflicting with the above so it is commented */
+/*#chatbot-dialog {*/
+/*    background: linear-gradient(to bottom, #000000, #434343); !* 漸變背景 *!*/
+/*}*/
+
+/*#chatbot-dialog {*/
+/*    text-align: center;*/
+/*    font-family: Arial, sans-serif;*/
+/*    color: #928e8e;*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+#chatbot-dialog h1 {
+    font-size: 2.5em; /* 調整字體大小 */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 添加陰影效果 */
+    color: #ffffff;
+    background: linear-gradient(to right, #bccbd8, #489acd);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+    border: 2px solid #76a0d7;
+    border-radius: 10px;
+    animation: bounce 2s infinite;
+}
+
+#chatbot-dialog form {
+    margin-top: 20px;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#chatbot-dialog label {
+    color: #fff;
+    font-size: 1.2em;
+}
+
+#chatbot-dialog input[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+#chatbot-dialog button {
+    padding: 10px 20px;
+    background-color: #6e779f;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#chatbot-dialog button:hover {
+    background-color: #feb47b;
+}
+
+#chatbot-dialog section {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+#chatbot-dialog aside {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+#chatbot-dialog p {
+    color: #ccc;
+    line-height: 1.6;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-30px);
+    }
+    60% {
+        transform: translateY(-15px);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
