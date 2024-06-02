@@ -34,22 +34,6 @@ body {
     top: -80px;
 }
 
-.shape:nth-child(2) {
-    background: linear-gradient(to right,
-            #FFFF00,
-            #ff512f);
-    right: -300px;
-    bottom: 200px;
-}
-
-.shape:nth-child(3) {
-    background: linear-gradient(to right,
-            #7878FF,
-            #1845ad);
-    left: -280px;
-    bottom: 100px;
-}
-
 .shape:last-child {
     background: linear-gradient(to right,
             #ff512f,
