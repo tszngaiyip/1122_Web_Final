@@ -1,11 +1,13 @@
 from flask import Flask, render_template, request, jsonify
 from database_helper import DatabaseHelper
 from llm import LLM
+from sales_helper import SalesHelper
 
 app = Flask(__name__)
 app._static_folder = './static'
 db_helper = DatabaseHelper('static/json/database.json')
 llm = LLM()
+sales_helper = SalesHelper()
 
 
 @app.route("/")
@@ -25,7 +27,9 @@ def ordered():
 
 @app.route("/sales")
 def sales():
-    return render_template("sales.html")
+    result1 = sales_helper.get_df1().to_json(orient="records")
+    result2 = sales_helper.get_df2().to_json(orient="records")
+    return render_template("sales.html", categoryData=result1, productData=result2)
 
 
 @app.route("/query")

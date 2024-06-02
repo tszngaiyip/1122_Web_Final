@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/sales.css') }}">
-    <script src="{{ url_for('static', filename='js/sales.js') }}"></script>
+    <meta charset="utf-8">
+    <title></title>
 </head>
+
 <body>
-    <button onclick="location.href='/'" style="
-						top: -20px;
-						left: 20px;
-						position: absolute;
-						margin-top: 50px;
-						width: 150px;
-						background-color: #3B3B3B;
-						color: #ffffff;
-						padding: 15px 0;
-						font-size: 18px;
-						font-weight: 600;
-						border-radius: 5px;
-						cursor: pointer;">回到主頁</button>
+<div style="display: flex; justify-content: space-between;">
+    <div id="category" style="width: 50%;"></div>
+    <div id="product" style="width: 50%;"></div>
+</div>
+<div id = "categoryData" style = "visibility: hidden;">{{categoryData}}</div>
+<div id = "productData" style = "visibility: hidden;">{{productData}}</div>
+
+<script src = "https://cdn.plot.ly/plotly-2.24.1.min.js" charset = "utf-8"></script>
+<script src = "{{ url_for('static', filename='js/sales.js') }}"></script>
 </body>
+
+</html>
