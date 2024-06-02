@@ -11,7 +11,7 @@ class LLM:
             model=self.config["Gemini"]["model"],
             google_api_key=self.config["Gemini"]["API_KEY"]
         )
-        self.menu = self.load_menu("static\json\database.json")
+        self.menu = self.load_menu("static/json/database.json")
         
     def load_menu(self, filepath):
         with open(filepath, "r", encoding="utf-8") as file:
