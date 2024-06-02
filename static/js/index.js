@@ -103,7 +103,7 @@ $(document).ready(function() {
 
         // 顯示輸入的問題並直接更新 <h2>
         const userQuestionTitle = document.getElementById('userQuestionTitle');
-        userQuestionTitle.textContent = question;
+        userQuestionTitle.textContent = "您的問題: " + question;
 
         // 初始化 AI 回覆
         const responseBox = document.getElementById('responseBox');
