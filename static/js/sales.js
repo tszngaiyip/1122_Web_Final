@@ -88,37 +88,32 @@ data2.push(filteredTrace2);
 
 let layout1 = {
     title: "上個月暢銷類別比例圖",
+    autosize: true,
     margin: {
         t: 80
     },
-    // grid: {
-    //     rows: 1, columns: 2
-    // },
     height: 650,
     width: 650,
-    font:{
+    font: {
         size: 19,
         color: 'black'
     },
-
 };
 
 let layout2 = {
     title: "上個月暢銷商品比例圖",
+    autosize: true,
     margin: {
         t: 80
     },
-    // grid: {
-    //     rows: 1, columns: 2
-    // },
     height: 690,
     width: 690,
-    font:{
+    font: {
         size: 19,
         color: 'black'
     },
-
 };
+
 
 Plotly.newPlot(category, data1, layout1);
 Plotly.newPlot(product, data2, layout2);
