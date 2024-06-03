@@ -248,7 +248,7 @@ th {
     bottom: 105px;
     right: 120px;
     width: 300px;
-    height: 400px;
+    height: 470px;
     border: none;
     outline: none;
     background-color: rgba(255, 255, 255, 0.13);
@@ -297,8 +297,15 @@ th {
     animation: bounce 2s infinite;
 }
 
+#chatbot-dialog h4{
+    font-size: 24px;
+    line-height: 24px;
+    overflow: scroll;
+}
+
 #chatbot-dialog form {
-    margin-top: 20px;
+    width: 100%;
+    margin-top: 5px;
     background-color: #333;
     padding: 20px;
     border-radius: 10px;
@@ -306,6 +313,7 @@ th {
 }
 
 #chatbot-dialog label {
+    margin-top: 0;
     color: #fff;
     font-size: 1.2em;
 }
@@ -318,6 +326,7 @@ th {
 }
 
 #chatbot-dialog button {
+    margin-top: 0;
     padding: 10px 20px;
     background-color: #6e779f;
     border: none;
@@ -333,15 +342,19 @@ th {
 }
 
 #chatbot-dialog section {
+    height: 75px;
     background-color: rgba(255, 255, 255, 0.1);
-    padding: 20px;
+    padding: 5px;
     border-radius: 10px;
-    margin: 20px 0;
+    margin-top: 20px;
+    margin-bottom: 0px;;
 }
 
 #chatbot-dialog aside {
+    overflow: scroll;
+    height: 75px;
     background-color: rgba(255, 255, 255, 0.1);
-    padding: 20px;
+    padding: 5px;
     border-radius: 10px;
     margin: 20px 0;
 }
