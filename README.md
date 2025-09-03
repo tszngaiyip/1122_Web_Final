@@ -1,7 +1,11 @@
 # README.md
 
+<<<<<<< Updated upstream
 ## 簡介
 餐廳訂餐系統，使用HTML, CSS, JavaScript, Python製作網頁，當中技術有Python Flask, PlotyJS, LLM, HTML5 Canvas等。網頁有直接點餐、隨機點餐、 公休時間、上月銷售量及聊天機器人的功能。
+=======
+> ⚠️ **重要聲明**: 這是1122 網站程式設計實務的期末專題分組報告作品。專案僅供學習和展示技術實現，菜單內容借用自卡利西里餐廳，純屬教育用途。
+>>>>>>> Stashed changes
 
 ## 如何執行
 1. 建立並填寫`config.ini`
