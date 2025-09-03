@@ -1,9 +1,4 @@
 # 🍽️ 卡利西里餐廳訂餐系統
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 一個功能完整的餐廳訂餐系統，採用現代化Web技術打造，提供直觀的用戶界面和智能化的點餐體驗。
 
 ## 📋 目錄
@@ -19,9 +14,7 @@
 - [API文件](#api文件)
 - [功能截圖](#功能截圖)
 - [疑難排解](#疑難排解)
-- [開發指南](#開發指南)
-- [貢獻指南](#貢獻指南)
-- [授權條款](#授權條款)
+- [授權](#授權)
 
 ## 🌟 專案簡介
 
@@ -126,9 +119,6 @@
 
 ### 基本需求
 - **Python**: 3.8 或更高版本
-- **作業系統**: Windows 10+、macOS 10.14+、Ubuntu 18.04+
-- **記憶體**: 最少 2GB RAM
-- **儲存空間**: 最少 500MB 可用空間
 
 ### 必要服務
 - **Google Gemini API**: 用於AI聊天機器人功能
@@ -147,10 +137,6 @@ cd 1122_Web_Final
 # Windows
 python -m venv venv
 venv\Scripts\activate
-
-# macOS/Linux  
-python3 -m venv venv
-source venv/bin/activate
 ```
 
 ### 3. 安裝依賴套件
@@ -196,10 +182,6 @@ model = gemini-pro
 # Windows
 set GEMINI_API_KEY=your_api_key_here
 set FLASK_ENV=development
-
-# macOS/Linux
-export GEMINI_API_KEY=your_api_key_here
-export FLASK_ENV=development
 ```
 
 ## 📖 使用說明
@@ -338,26 +320,6 @@ export FLASK_DEBUG=1
 python app.py
 ```
 
-## 👨‍💻 開發指南
-
-### 開發環境設置
-
-1. **程式碼編輯器**: 推薦使用 VSCode 或 PyCharm
-2. **Python 版本管理**: 使用 pyenv 或 conda
-3. **版本控制**: Git
-
-### 專案開發流程
-
-1. **分支管理**: 使用 Git Flow 工作流程
-2. **程式碼審查**: 提交前進行程式碼檢查
-3. **測試**: 確保功能正常運作
-
-### 程式碼風格
-
-- **Python**: 遵循 PEP 8 標準
-- **JavaScript**: 使用 ES6+ 語法
-- **HTML/CSS**: 保持語義化和響應式設計
-
 ### 新增功能
 
 1. 在 `app.py` 中新增路由
@@ -365,78 +327,12 @@ python app.py
 3. 新增必要的 CSS 和 JavaScript
 4. 更新 README 文件
 
-## 🤝 貢獻指南
+## 📄 授權
 
-我們歡迎任何形式的貢獻！請遵循以下流程：
-
-### 提交貢獻
-
-1. **Fork** 本專案
-2. 建立功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交變更 (`git commit -m 'Add amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 開啟 **Pull Request**
-
-### 貢獻類型
-
-- 🐛 錯誤修復
-- ✨ 新功能開發
-- 📚 文件改善
-- 🎨 UI/UX 優化
-- ⚡ 效能改善
-
-### 報告問題
-
-如發現問題，請建立 Issue 並包含：
-- 問題詳細描述
-- 重現步驟
-- 預期行為
-- 實際行為
-- 螢幕截圖 (如適用)
-
-## 📄 授權條款
-
-本專案採用 MIT 授權條款。詳細內容請參考 [LICENSE](LICENSE) 檔案。
-
-```
-MIT License
-
-Copyright (c) 2024 卡利西里餐廳訂餐系統
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 📞 聯絡資訊
-
-- **專案維護者**: [您的姓名]
-- **電子郵件**: [您的郵箱]
-- **專案首頁**: [https://github.com/tszngaiyip/1122_Web_Final](https://github.com/tszngaiyip/1122_Web_Final)
-
----
+此專案僅供學習和教育用途。
 
 <div align="center">
 
-**感謝您使用卡利西里餐廳訂餐系統！** 
-
-如果這個專案對您有幫助，請考慮給我們一個 ⭐
 
 [回到頂部](#-卡利西里餐廳訂餐系統)
 
