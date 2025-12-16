@@ -87,7 +87,15 @@ $(document).ready(function(){
                 window.alert('成功送出訂單');
 
                 // 重定向到新頁面
-                window.location.href = '/';
+                // 檢測是否為 GitHub Pages（URL 包含 .html）或 Flask 環境
+                const currentUrl = window.location.href;
+                if (currentUrl.includes('.html') || currentUrl.includes('/demo/')) {
+                    // GitHub Pages 環境：使用相對路徑
+                    window.location.href = 'index.html';
+                } else {
+                    // Flask 環境：使用根路徑
+                    window.location.href = '/';
+                }
             }, 100); // 短暫等待100毫秒，確保按鈕文字更新
         }, Math.random() * 1500 + 500);
     });

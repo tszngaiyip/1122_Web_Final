@@ -4,7 +4,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // 創建圖片
     const imgMain = new Image();
-    imgMain.src = './static/images/webcanvas.png';
+    // 使用相對路徑，從 JS 檔案位置 (static/js/) 向上兩層到根目錄，再進入 static/images/
+    imgMain.src = '../images/webcanvas.png';
 
     // 圖片加載後畫到Canvas
     imgMain.onload = function() {   //寬183 長136 間隔4

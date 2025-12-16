@@ -4,6 +4,12 @@
 
 一個功能完整的餐廳訂餐系統展示專案，採用現代化Web技術打造，提供直觀的用戶界面和智能化的點餐體驗。本專案作為Web開發技術的學習成果展示。
 
+## 靜態HTML Demo(前端畫面)
+**Demo 網址**: [https://tsz7250.github.io/1122_Web_Final/](https://tsz7250.github.io/1122_Web_Final/)
+<img src="./pic/index.png" alt="主頁">
+<img src="./pic/order.png" alt="直接點餐">
+<img src="./pic/chart.png" alt="上月圖表">
+
 ## 📋 目錄
 
 - [專案簡介](#專案簡介)
@@ -351,10 +357,3 @@ python app.py
 - 感謝卡利西里餐廳提供優質菜單內容作為學習參考
 
 此專案僅供學習和教育用途。
-
-<div align="center">
-
-
-[回到頂部](#-卡利西里餐廳訂餐系統)
-
-</div>
